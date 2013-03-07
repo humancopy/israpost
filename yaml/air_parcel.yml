@@ -1,0 +1,19 @@
+---
+weight_limit: 20000
+additions: 500
+
+1:
+    !ruby/range 1..500: 67.20
+    addition: 10.40
+2:
+    !ruby/range 1..500: 77
+    addition: 18.60
+3:
+    !ruby/range 1..500: 89.50
+    addition: 13.50
+4:
+    !ruby/range 1..500: 98.80
+    addition: 9.20
+5:
+    !ruby/range 1..500: 83.10
+    addition: 15.80

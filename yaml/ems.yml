@@ -1,0 +1,48 @@
+---
+weight_limit: 20000
+additions: 1000
+
+1:
+    !ruby/range 1..500: 74
+    !ruby/range 501..1000: 94
+    addition: 32.5
+2:
+    !ruby/range 1..500: 97
+    !ruby/range 501..1000: 119
+    addition: 35
+3:
+    !ruby/range 1..500: 102
+    !ruby/range 501..1000: 107
+    addition: 14
+4:
+    !ruby/range 1..500: 101
+    !ruby/range 501..1000: 115
+    addition: 26
+5:
+    !ruby/range 1..500: 91
+    !ruby/range 501..1000: 113
+    addition: 25
+6:
+    !ruby/range 1..500: 99
+    !ruby/range 501..1000: 117
+    addition: 29
+7:
+    !ruby/range 1..500: 93
+    !ruby/range 501..1000: 121
+    addition: 36
+8:
+    !ruby/range 1..500: 113
+    !ruby/range 501..1000: 132
+    addition: 33
+9:
+    !ruby/range 1..500: 150
+    !ruby/range 501..1000: 167
+    addition: 25
+10:
+    !ruby/range 1..500: 110
+    !ruby/range 501..1000: 122
+    addition: 16
+11:
+    !ruby/range 1..500: 130
+    !ruby/range 501..1000: 135
+    addition: 21
