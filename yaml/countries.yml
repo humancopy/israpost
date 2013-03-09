@@ -3,7 +3,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אבו דבי - אין שירות '
@@ -13,7 +13,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אדמירלטי - ראה פפואה '
@@ -23,7 +23,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: UG
+  country_code: UG
   common_name: 
   ems_group: 4
   israel_post_name: ! 'אוגנדה '
@@ -33,7 +33,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: UZ
+  country_code: UZ
   common_name: 
   ems_group: 4
   israel_post_name: ! 'אוזבקיסטן '
@@ -43,7 +43,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אום אל - קייוין - אין שירות '
@@ -53,7 +53,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: AT
+  country_code: AT
   common_name: 
   ems_group: 3
   israel_post_name: ! 'אוסטריה '
@@ -63,7 +63,7 @@
   airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: AU
+  country_code: AU
   common_name: 
   ems_group: 2
   israel_post_name: ! 'אוסטרליה '
@@ -73,7 +73,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: UA
+  country_code: UA
   common_name: 
   ems_group: 10
   israel_post_name: ! 'אוקראינה '
@@ -83,7 +83,7 @@
   airmail_group: 4
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: UY
+  country_code: UY
   common_name: 
   ems_group: 6
   israel_post_name: ! 'אורוגואי '
@@ -93,7 +93,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אזורים  (איים) - ראה פורטוגל '
@@ -103,7 +103,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: AZ
+  country_code: AZ
   common_name: 
   ems_group: 4
   israel_post_name: ! 'אזרבאיג''ן '
@@ -113,7 +113,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: IT
+  country_code: IT
   common_name: 
   ems_group: 10
   israel_post_name: ! 'איטליה '
@@ -123,7 +123,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: ID
+  country_code: ID
   common_name: 
   ems_group: 7
   israel_post_name: ! 'אינדונזיה '
@@ -133,7 +133,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: IS
+  country_code: IS
   common_name: 
   ems_group: 2
   israel_post_name: ! 'איסלנד '
@@ -143,7 +143,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: IR
+  country_code: IR
   common_name: IRAN
   ems_group: 0
   israel_post_name: ! 'אירן (פרס) - אין שירות '
@@ -153,7 +153,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: IE
+  country_code: IE
   common_name: 
   ems_group: 3
   israel_post_name: ! 'אירלנד '
@@ -163,7 +163,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SV
+  country_code: SV
   common_name: 
   ems_group: 6
   israel_post_name: ! 'אל - סלוואדור '
@@ -173,7 +173,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AL
+  country_code: AL
   common_name: 
   ems_group: 10
   israel_post_name: ! 'אלבניה '
@@ -183,7 +183,7 @@
   airmail_group: 4
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: DZ
+  country_code: DZ
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אלג''יריה - אין שירות (מלבד מכתבים רגילים) '
@@ -193,7 +193,7 @@
   airmail_group: 3
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: AX
+  country_code: AX
   common_name: 
   ems_group: 10
   israel_post_name: ! 'אלנד (איים) - ראה פינלנד '
@@ -203,7 +203,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אלסקה - ראה ארה"ב '
@@ -213,7 +213,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AO
+  country_code: AO
   common_name: 
   ems_group: 7
   israel_post_name: ! 'אנגולה '
@@ -223,7 +223,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AI
+  country_code: AI
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אנגילה '
@@ -233,7 +233,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AD
+  country_code: AD
   common_name: 
   ems_group: 10
   israel_post_name: ! 'אנדורה '
@@ -243,7 +243,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אנדמן - ראה הודו '
@@ -253,7 +253,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AG
+  country_code: AG
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אנטיגואה וברבודה '
@@ -263,7 +263,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AN
+  country_code: AN
   common_name: 
   ems_group: 4
   israel_post_name: ! 'אנטילים הולנדיים '
@@ -273,7 +273,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: EE
+  country_code: EE
   common_name: 
   ems_group: 4
   israel_post_name: ! 'אסטוניה '
@@ -283,7 +283,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אסנסיון '
@@ -293,7 +293,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AF
+  country_code: AF
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אפגניסטן '
@@ -303,7 +303,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: EC
+  country_code: EC
   common_name: 
   ems_group: 6
   israel_post_name: ! 'אקואדור '
@@ -313,7 +313,7 @@
   airmail_group: 3
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: AR
+  country_code: AR
   common_name: 
   ems_group: 6
   israel_post_name: ! 'ארגנטינה '
@@ -323,7 +323,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AW
+  country_code: AW
   common_name: 
   ems_group: 4
   israel_post_name: ! 'ארובה '
@@ -333,7 +333,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: ER
+  country_code: ER
   common_name: 
   ems_group: 0
   israel_post_name: ! 'אריתריאה '
@@ -343,7 +343,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AM
+  country_code: AM
   common_name: 
   ems_group: 4
   israel_post_name: ! 'ארמניה '
@@ -353,7 +353,7 @@
   airmail_group: 1
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: US
+  country_code: US
   common_name: USA
   ems_group: 1
   israel_post_name: ! 'ארצות הברית של אמריקה '
@@ -363,7 +363,7 @@
   airmail_group: 2
   air_parcel_group: 1
   appear_in_shipping_list: 1
-  code: ET
+  country_code: ET
   common_name: 
   ems_group: 3
   israel_post_name: ! 'אתיופיה '
@@ -373,7 +373,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BS
+  country_code: BS
   common_name: 
   ems_group: 9
   israel_post_name: ! 'בהאמה - (איים) '
@@ -383,7 +383,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BT
+  country_code: BT
   common_name: 
   ems_group: 5
   israel_post_name: ! 'בהוטן '
@@ -393,7 +393,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בוגנוויל - ראה פפואה '
@@ -403,7 +403,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: BG
+  country_code: BG
   common_name: 
   ems_group: 3
   israel_post_name: ! 'בולגריה '
@@ -413,7 +413,7 @@
   airmail_group: 4
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: BO
+  country_code: BO
   common_name: BOLIVIA
   ems_group: 8
   israel_post_name: ! 'בוליביה '
@@ -423,7 +423,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בונייר - ראה אנטילים הולנדיים '
@@ -433,7 +433,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BA
+  country_code: BA
   common_name: 
   ems_group: 10
   israel_post_name: ! 'בוסניה - הרצגובינה '
@@ -443,7 +443,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בופוטצואנה- ראה דרום אפריקה '
@@ -453,7 +453,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BW
+  country_code: BW
   common_name: 
   ems_group: 2
   israel_post_name: ! 'בוצואנה '
@@ -463,7 +463,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בוקה - ראה פפואה '
@@ -473,7 +473,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BI
+  country_code: BI
   common_name: 
   ems_group: 2
   israel_post_name: ! 'בורונדי '
@@ -483,7 +483,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בורמה - ראה מיאנמר '
@@ -493,7 +493,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BF
+  country_code: BF
   common_name: 
   ems_group: 6
   israel_post_name: ! 'בורקינה פאסו '
@@ -503,7 +503,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: BH
+  country_code: BH
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בחריין - אין שירות '
@@ -513,7 +513,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ביסמרק - ראה פפואה '
@@ -523,7 +523,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: BE
+  country_code: BE
   common_name: 
   ems_group: 3
   israel_post_name: ! 'בלגיה '
@@ -533,7 +533,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בליארים (איים) - ראה ספרד '
@@ -543,7 +543,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BZ
+  country_code: BZ
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בליז '
@@ -553,7 +553,7 @@
   airmail_group: 2
   air_parcel_group: 1
   appear_in_shipping_list: 1
-  code: BY
+  country_code: BY
   common_name: 
   ems_group: 3
   israel_post_name: ! 'בלרוס '
@@ -563,7 +563,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BD
+  country_code: BD
   common_name: 
   ems_group: 4
   israel_post_name: ! 'בנגלה - דש '
@@ -573,7 +573,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BJ
+  country_code: BJ
   common_name: 
   ems_group: 8
   israel_post_name: ! 'בנין '
@@ -583,7 +583,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'בנקס וטורס  - ראה ונואטו '
@@ -593,7 +593,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BB
+  country_code: BB
   common_name: 
   ems_group: 4
   israel_post_name: ! 'ברבדוס '
@@ -603,7 +603,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ברבודה - ראה אנטיגואה וברבודה '
@@ -613,7 +613,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BN
+  country_code: BN
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ברוניי דרוסלם '
@@ -623,7 +623,7 @@
   airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: BR
+  country_code: BR
   common_name: 
   ems_group: 6
   israel_post_name: ! 'ברזיל '
@@ -633,7 +633,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: GB
+  country_code: GB
   common_name: UK
   ems_group: 10
   israel_post_name: ! 'בריטניה הגדולה ואירלנד הצפונית '
@@ -643,7 +643,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: BM
+  country_code: BM
   common_name: 
   ems_group: 5
   israel_post_name: ! 'ברמודה '
@@ -653,7 +653,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GH
+  country_code: GH
   common_name: 
   ems_group: 5
   israel_post_name: ! 'גאנה '
@@ -663,7 +663,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GA
+  country_code: GA
   common_name: 
   ems_group: 8
   israel_post_name: ! 'גבון '
@@ -673,7 +673,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GP
+  country_code: GP
   common_name: 
   ems_group: 3
   israel_post_name: ! 'גואדלופ '
@@ -683,7 +683,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GT
+  country_code: GT
   common_name: 
   ems_group: 6
   israel_post_name: ! 'גואטמלה '
@@ -693,7 +693,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GU
+  country_code: GU
   common_name: 
   ems_group: 7
   israel_post_name: ! 'גואם (אי) '
@@ -703,7 +703,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GY
+  country_code: GY
   common_name: 
   ems_group: 9
   israel_post_name: ! 'גויאנה '
@@ -713,7 +713,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GF
+  country_code: GF
   common_name: 
   ems_group: 3
   israel_post_name: ! 'גויאנה הצרפתית '
@@ -723,7 +723,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: DJ
+  country_code: DJ
   common_name: 
   ems_group: 4
   israel_post_name: ! 'ג''יבוטי '
@@ -733,7 +733,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GI
+  country_code: GI
   common_name: 
   ems_group: 9
   israel_post_name: ! 'ג''יברלטר '
@@ -743,7 +743,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GN
+  country_code: GN
   common_name: 
   ems_group: 6
   israel_post_name: ! 'גיניאה (רפ'') '
@@ -753,7 +753,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GQ
+  country_code: GQ
   common_name: 
   ems_group: 0
   israel_post_name: ! 'גיניאה המשוונית '
@@ -763,7 +763,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GW
+  country_code: GW
   common_name: 
   ems_group: 2
   israel_post_name: ! 'גיניאה ביסאו '
@@ -773,7 +773,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: JM
+  country_code: JM
   common_name: 
   ems_group: 6
   israel_post_name: ! 'ג''מאיקה '
@@ -783,7 +783,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GM
+  country_code: GM
   common_name: 
   ems_group: 0
   israel_post_name: ! 'גמביה '
@@ -793,7 +793,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'גמבייר (איים)-ראה פולינזיה הצרפתית '
@@ -803,7 +803,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: GE
+  country_code: GE
   common_name: 
   ems_group: 3
   israel_post_name: ! 'גרוזיה '
@@ -813,7 +813,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: GL
+  country_code: GL
   common_name: 
   ems_group: 9
   israel_post_name: ! 'גרינלנד- ראה דנמרק '
@@ -823,7 +823,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: DE
+  country_code: DE
   common_name: 
   ems_group: 10
   israel_post_name: ! 'גרמניה '
@@ -833,7 +833,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: GD
+  country_code: GD
   common_name: 
   ems_group: 0
   israel_post_name: ! 'גרנדה (אי) '
@@ -843,7 +843,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: GG
+  country_code: GG
   common_name: 
   ems_group: 10
   israel_post_name: ! 'גרנסי - ראה בריטניה הגדולה '
@@ -853,7 +853,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: JE
+  country_code: JE
   common_name: 
   ems_group: 10
   israel_post_name: ! 'ג''רסי - ראה בריטניה הגדולה '
@@ -863,7 +863,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'דוביי - אין שירות '
@@ -873,7 +873,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'דודקן (איים) - ראה יוון '
@@ -883,7 +883,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: DM
+  country_code: DM
   common_name: 
   ems_group: 0
   israel_post_name: ! 'דומיניק (אי) '
@@ -893,7 +893,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: DO
+  country_code: DO
   common_name: 
   ems_group: 4
   israel_post_name: ! 'דומיניקנה (רפ'') '
@@ -903,7 +903,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: DK
+  country_code: DK
   common_name: 
   ems_group: 10
   israel_post_name: ! 'דנמרק '
@@ -913,7 +913,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: ZA
+  country_code: ZA
   common_name: 
   ems_group: 2
   israel_post_name: ! 'דרום אפריקה '
@@ -923,7 +923,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: HT
+  country_code: HT
   common_name: 
   ems_group: 5
   israel_post_name: ! 'האיטי '
@@ -933,7 +933,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: IN
+  country_code: IN
   common_name: 
   ems_group: 4
   israel_post_name: ! 'הודו '
@@ -943,7 +943,7 @@
   airmail_group: 1
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 1
   israel_post_name: ! 'הוואי (איים) - ראה ארה"ב '
@@ -953,7 +953,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: NL
+  country_code: NL
   common_name: 
   ems_group: 10
   israel_post_name: ! 'הולנד '
@@ -963,7 +963,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: HK
+  country_code: HK
   common_name: 
   ems_group: 5
   israel_post_name: ! 'הונג - קונג '
@@ -973,7 +973,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: HU
+  country_code: HU
   common_name: 
   ems_group: 10
   israel_post_name: ! 'הונגריה '
@@ -983,7 +983,7 @@
   airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: HN
+  country_code: HN
   common_name: 
   ems_group: 7
   israel_post_name: ! 'הונדורס '
@@ -993,7 +993,7 @@
   airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: HM
+  country_code: HM
   common_name: 
   ems_group: 0
   israel_post_name: ! 'הרד - ראה אוסטרליה '
@@ -1003,7 +1003,7 @@
   airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: VA
+  country_code: VA
   common_name: VATICAN
   ems_group: 10
   israel_post_name: ! 'וטיקן (קריה) '
@@ -1013,7 +1013,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: VN
+  country_code: VN
   common_name: VIETNAM
   ems_group: 6
   israel_post_name: ! 'וייטנאם '
@@ -1023,7 +1023,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'וייק ראה ארה"ב '
@@ -1033,7 +1033,7 @@
   airmail_group: 1
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: VI
+  country_code: VI
   common_name: VIRGIN ISLANDS (US)
   ems_group: 1
   israel_post_name: ! 'וירג''ין של ארה"ב (איים) ראה ארה"ב '
@@ -1043,7 +1043,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: VG
+  country_code: VG
   common_name: BRITISH VIRGIN ISLANDS
   ems_group: 0
   israel_post_name: ! 'וירג''ין של בריטניה (טורטולה) '
@@ -1053,7 +1053,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: WF
+  country_code: WF
   common_name: 
   ems_group: 0
   israel_post_name: ! 'וליס ופוטונה (איים) '
@@ -1063,7 +1063,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: VU
+  country_code: VU
   common_name: 
   ems_group: 6
   israel_post_name: ! 'ונואטו '
@@ -1073,7 +1073,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: VE
+  country_code: VE
   common_name: 
   ems_group: 6
   israel_post_name: ! 'ונצואלה '
@@ -1083,7 +1083,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'זאיר- ראה קונגו רפ'' דמוקרטית '
@@ -1093,7 +1093,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: ZW
+  country_code: ZW
   common_name: 
   ems_group: 4
   israel_post_name: ! 'זימבבואה '
@@ -1103,7 +1103,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: ZM
+  country_code: ZM
   common_name: 
   ems_group: 6
   israel_post_name: ! 'זמביה  '
@@ -1113,7 +1113,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'זנזיבר - ראה טנזניה '
@@ -1123,7 +1123,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CI
+  country_code: CI
   common_name: 
   ems_group: 6
   israel_post_name: ! 'חוף השנהב '
@@ -1133,7 +1133,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TJ
+  country_code: TJ
   common_name: 
   ems_group: 9
   israel_post_name: ! 'טג''יקיסטן '
@@ -1143,7 +1143,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 7
   israel_post_name: ! 'טהיטי - ראה פולינזיה הצרפתית '
@@ -1153,7 +1153,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טואמוטו- ראה פולינזיה הצרפתית '
@@ -1163,7 +1163,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טובגו - ראה טרינידר וטובגו '
@@ -1173,7 +1173,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TV
+  country_code: TV
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טובלו '
@@ -1183,7 +1183,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TG
+  country_code: TG
   common_name: 
   ems_group: 6
   israel_post_name: ! 'טוגו '
@@ -1193,7 +1193,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TO
+  country_code: TO
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טונגה (איי פרנדלי) '
@@ -1203,7 +1203,7 @@
   airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: TK
+  country_code: TK
   common_name: 
   ems_group: 6
   israel_post_name: ! 'טוקלאו - ראה ניו זילנד '
@@ -1213,7 +1213,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טורטולה - ראה וירג''ין של בריטניה '
@@ -1223,7 +1223,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טורס - ראה ונואטו '
@@ -1233,7 +1233,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TM
+  country_code: TM
   common_name: 
   ems_group: 10
   israel_post_name: ! 'טורקמניסטן '
@@ -1243,7 +1243,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TC
+  country_code: TC
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טורקס וקאיקוס (איים) '
@@ -1253,7 +1253,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טיבט - ראה סין רפ'' עממית '
@@ -1263,7 +1263,7 @@
   airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: TW
+  country_code: TW
   common_name: 
   ems_group: 5
   israel_post_name: ! 'טייוואן - ראה סין רפ'' לאומנית '
@@ -1273,7 +1273,7 @@
   airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TL
+  country_code: TL
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טימור המזרחית  '
@@ -1283,7 +1283,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TZ
+  country_code: TZ
   common_name: 
   ems_group: 4
   israel_post_name: ! 'טנזניה '
@@ -1293,7 +1293,7 @@
   airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 2
   israel_post_name: ! 'טסמניה - ראה אוסטרליה '
@@ -1303,7 +1303,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: TF
+  country_code: TF
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טריטוריות דרומיות ואנטרקטיקות  של צרפת - אין שירות  ET ANTARCTIQUES  FRANCAISES '
@@ -1313,7 +1313,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: IO
+  country_code: IO
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טריטוריה בריטית באוקינוס ההודי '
@@ -1323,7 +1323,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TT
+  country_code: TT
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טרינידד וטובגו (איים) '
@@ -1333,7 +1333,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'טריסטן דה קונהה (אי) '
@@ -1343,7 +1343,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: RS
+  country_code: RS
   common_name: 
   ems_group: 10
   israel_post_name: ! 'סרביה '
@@ -1353,7 +1353,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: GR
+  country_code: GR
   common_name: 
   ems_group: 10
   israel_post_name: ! 'יוון '
@@ -1363,7 +1363,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: JP
+  country_code: JP
   common_name: 
   ems_group: 5
   israel_post_name: ! 'יפן '
@@ -1373,7 +1373,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: JO
+  country_code: JO
   common_name: 
   ems_group: 3
   israel_post_name: ! 'ירדן '
@@ -1383,7 +1383,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: KW
+  country_code: KW
   common_name: 
   ems_group: 0
   israel_post_name: ! 'כווית - אין שירות '
@@ -1393,7 +1393,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CV
+  country_code: CV
   common_name: 
   ems_group: 10
   israel_post_name: ! 'כף ורדה '
@@ -1403,7 +1403,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 10
   israel_post_name: ! 'כרתים - ראה יוון '
@@ -1413,7 +1413,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: LA
+  country_code: LA
   common_name: LAOS
   ems_group: 4
   israel_post_name: ! 'לאו (לאוס) '
@@ -1423,7 +1423,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: LB
+  country_code: LB
   common_name: 
   ems_group: 0
   israel_post_name: ! 'לבנון - אין שירות '
@@ -1433,7 +1433,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'לואיוטה - ראה קלדוניה  החדשה '
@@ -1443,7 +1443,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: LY
+  country_code: LY
   common_name: 
   ems_group: 0
   israel_post_name: ! 'לוב - אין שירות '
@@ -1453,7 +1453,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: LU
+  country_code: LU
   common_name: 
   ems_group: 3
   israel_post_name: ! 'לוקסמבורג '
@@ -1463,7 +1463,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'לורד האו (איים) - ראה אוסטרליה '
@@ -1473,7 +1473,7 @@
   airmail_group: 2
   air_parcel_group: 1
   appear_in_shipping_list: 1
-  code: LV
+  country_code: LV
   common_name: 
   ems_group: 3
   israel_post_name: ! 'לטביה '
@@ -1483,7 +1483,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: LR
+  country_code: LR
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ליבריה '
@@ -1493,7 +1493,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: LT
+  country_code: LT
   common_name: 
   ems_group: 3
   israel_post_name: ! 'ליטא '
@@ -1503,7 +1503,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: LI
+  country_code: LI
   common_name: 
   ems_group: 10
   israel_post_name: ! 'ליכטנשטיין - ראה שוויצריה '
@@ -1513,7 +1513,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: LS
+  country_code: LS
   common_name: 
   ems_group: 4
   israel_post_name: ! 'לסוטו '
@@ -1523,7 +1523,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'לקדיב - ראה הודו '
@@ -1533,7 +1533,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MU
+  country_code: MU
   common_name: 
   ems_group: 8
   israel_post_name: ! 'מאוריציוס '
@@ -1543,7 +1543,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MR
+  country_code: MR
   common_name: 
   ems_group: 2
   israel_post_name: ! 'מאוריתניה '
@@ -1553,7 +1553,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: ML
+  country_code: ML
   common_name: 
   ems_group: 6
   israel_post_name: ! 'מאלי '
@@ -1563,7 +1563,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MG
+  country_code: MG
   common_name: 
   ems_group: 8
   israel_post_name: ! 'מדגסקר '
@@ -1573,7 +1573,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מדיירה - ראה פורטוגל '
@@ -1583,7 +1583,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MZ
+  country_code: MZ
   common_name: 
   ems_group: 4
   israel_post_name: ! 'מוזמביק '
@@ -1593,7 +1593,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: MD
+  country_code: MD
   common_name: MOLDOVA
   ems_group: 10
   israel_post_name: ! 'מולדובה '
@@ -1603,7 +1603,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MN
+  country_code: MN
   common_name: 
   ems_group: 6
   israel_post_name: ! 'מונגוליה '
@@ -1613,7 +1613,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: ME
+  country_code: ME
   common_name: 
   ems_group: 10
   israel_post_name: ! 'מונטנגרו '
@@ -1623,7 +1623,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MS
+  country_code: MS
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מונסרט  (אי) '
@@ -1633,7 +1633,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MC
+  country_code: MC
   common_name: 
   ems_group: 3
   israel_post_name: ! 'מונקו '
@@ -1643,7 +1643,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מטסו - ראה סין רפ'' לאומנית '
@@ -1653,7 +1653,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MM
+  country_code: MM
   common_name: MYANMAR (BURMA)
   ems_group: 5
   israel_post_name: ! 'מיאנמר (בורמה) '
@@ -1663,7 +1663,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מידווי (איים) - ראה ארה"ב '
@@ -1673,7 +1673,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מיקלון - ראה סנט פייר ומיקלון '
@@ -1683,7 +1683,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: FM
+  country_code: FM
   common_name: FEDERATED STATES OF MICRONESIA
   ems_group: 7
   israel_post_name: ! 'מיקרונזיה '
@@ -1693,7 +1693,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MW
+  country_code: MW
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מלאווי '
@@ -1703,7 +1703,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MV
+  country_code: MV
   common_name: 
   ems_group: 3
   israel_post_name: ! 'מלדיבים '
@@ -1713,7 +1713,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MY
+  country_code: MY
   common_name: 
   ems_group: 9
   israel_post_name: ! 'מלזיה '
@@ -1723,7 +1723,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MT
+  country_code: MT
   common_name: 
   ems_group: 4
   israel_post_name: ! 'מלטה '
@@ -1733,7 +1733,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: IM
+  country_code: IM
   common_name: 
   ems_group: 10
   israel_post_name: ! 'מן (אי) - ראה בריטניה '
@@ -1743,7 +1743,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: EG
+  country_code: EG
   common_name: 
   ems_group: 3
   israel_post_name: ! 'מצרים '
@@ -1753,7 +1753,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MO
+  country_code: MO
   common_name: 
   ems_group: 5
   israel_post_name: ! 'מקאו '
@@ -1763,7 +1763,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MK
+  country_code: MK
   common_name: MACEDONIA
   ems_group: 3
   israel_post_name: ! 'מקדוניה '
@@ -1773,7 +1773,7 @@
   airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מקדונלד - ראה אוסטרליה '
@@ -1783,7 +1783,7 @@
   airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: MX
+  country_code: MX
   common_name: 
   ems_group: 4
   israel_post_name: ! 'מקסיקו '
@@ -1793,7 +1793,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: MA
+  country_code: MA
   common_name: 
   ems_group: 10
   israel_post_name: ! 'מרוקו '
@@ -1803,7 +1803,7 @@
   airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MQ
+  country_code: MQ
   common_name: 
   ems_group: 3
   israel_post_name: ! 'מרטיניק (איים) '
@@ -1813,7 +1813,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MP
+  country_code: MP
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מריאנים (איים) '
@@ -1823,7 +1823,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CF
+  country_code: CF
   common_name: 
   ems_group: 6
   israel_post_name: ! 'מרכז אפריקה (רפ'') '
@@ -1833,7 +1833,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'מרקיז (איים) - ראה  פולינזיה הצרפתית '
@@ -1843,7 +1843,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: MH
+  country_code: MH
   common_name: 
   ems_group: 7
   israel_post_name: ! 'מרשל (איים) '
@@ -1853,7 +1853,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NR
+  country_code: NR
   common_name: 
   ems_group: 0
   israel_post_name: ! 'נאורו '
@@ -1863,7 +1863,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'נוויס - ראה סנט כריסטוף נוויס ואנגילה '
@@ -1873,7 +1873,7 @@
   airmail_group: 3
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: 'NO'
+  country_code: 'NO'
   common_name: 
   ems_group: 10
   israel_post_name: ! 'נורבגיה '
@@ -1883,7 +1883,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NF
+  country_code: NF
   common_name: 
   ems_group: 0
   israel_post_name: ! 'נורפולק '
@@ -1893,7 +1893,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NE
+  country_code: NE
   common_name: 
   ems_group: 6
   israel_post_name: ! 'ניג''ר '
@@ -1903,7 +1903,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NG
+  country_code: NG
   common_name: 
   ems_group: 4
   israel_post_name: ! 'ניגריה '
@@ -1913,7 +1913,7 @@
   airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: NZ
+  country_code: NZ
   common_name: 
   ems_group: 6
   israel_post_name: ! 'ניו זילנד '
@@ -1923,7 +1923,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ניו פאונדלנד - ראה קנדה '
@@ -1933,7 +1933,7 @@
   airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: NU
+  country_code: NU
   common_name: 
   ems_group: 6
   israel_post_name: ! 'נייו - ראה ניו זילנד '
@@ -1943,7 +1943,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ניקובר - ראה הודו '
@@ -1953,7 +1953,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NI
+  country_code: NI
   common_name: 
   ems_group: 7
   israel_post_name: ! 'ניקרגואה '
@@ -1963,7 +1963,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NA
+  country_code: NA
   common_name: 
   ems_group: 6
   israel_post_name: ! 'נמיביה '
@@ -1973,7 +1973,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: AE
+  country_code: AE
   common_name: 
   ems_group: 0
   israel_post_name: ! 'נסיכויות ערביות מאוחדות - אין שירות  '
@@ -1983,7 +1983,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NP
+  country_code: NP
   common_name: 
   ems_group: 5
   israel_post_name: ! 'נפאל '
@@ -1993,7 +1993,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 4
   israel_post_name: ! 'סבא - ראה אנטילים הולנדיים '
@@ -2003,7 +2003,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סבח - ראה מלזיה '
@@ -2013,7 +2013,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סו לה וונט - ראה פולינזיה הצרפתית '
@@ -2023,7 +2023,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: SD
+  country_code: SD
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סודן - אין שירות '
@@ -2033,7 +2033,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SZ
+  country_code: SZ
   common_name: 
   ems_group: 4
   israel_post_name: ! 'סוואזילנד '
@@ -2043,7 +2043,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SO
+  country_code: SO
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סומליה '
@@ -2053,7 +2053,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סוסייטה - ראה פולינזיה הצרפתית '
@@ -2063,7 +2063,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: SY
+  country_code: SY
   common_name: SYRIA
   ems_group: 0
   israel_post_name: ! 'סוריה - אין שירות '
@@ -2073,7 +2073,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SR
+  country_code: SR
   common_name: 
   ems_group: 8
   israel_post_name: ! 'סורינם '
@@ -2083,7 +2083,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SL
+  country_code: SL
   common_name: 
   ems_group: 6
   israel_post_name: ! 'סיירה לאונה '
@@ -2093,7 +2093,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: SC
+  country_code: SC
   common_name: 
   ems_group: 4
   israel_post_name: ! 'סיישל (איים) '
@@ -2103,7 +2103,7 @@
   airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: CN
+  country_code: CN
   common_name: 
   ems_group: 5
   israel_post_name: ! 'סין רפובליקה עממית '
@@ -2113,7 +2113,7 @@
   airmail_group: 2
   air_parcel_group: 1
   appear_in_shipping_list: 1
-  code: SG
+  country_code: SG
   common_name: 
   ems_group: 5
   israel_post_name: ! 'סינגפור '
@@ -2123,7 +2123,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סיקים - ראה הודו '
@@ -2133,7 +2133,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SI
+  country_code: SI
   common_name: 
   ems_group: 10
   israel_post_name: ! 'סלובניה '
@@ -2143,7 +2143,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SK
+  country_code: SK
   common_name: 
   ems_group: 3
   israel_post_name: ! 'סלובקיה '
@@ -2153,7 +2153,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SB
+  country_code: SB
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סלומון '
@@ -2163,7 +2163,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: AS
+  country_code: AS
   common_name: 
   ems_group: 7
   israel_post_name: ! 'סמואה (איים של ארה"ב) '
@@ -2173,7 +2173,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: WS
+  country_code: WS
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סמואה המערבית (של ניו זילנד) '
@@ -2183,7 +2183,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: SM
+  country_code: SM
   common_name: 
   ems_group: 10
   israel_post_name: ! 'סן מרינו - ראה איטליה '
@@ -2193,7 +2193,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SN
+  country_code: SN
   common_name: 
   ems_group: 4
   israel_post_name: ! 'סנגל '
@@ -2203,7 +2203,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנט אוסטש - ראה אנטילים הולנדיים '
@@ -2213,7 +2213,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנט אנדרוס - ראה קולומביה '
@@ -2223,7 +2223,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: VC
+  country_code: VC
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנט וינצנט וגרנדין '
@@ -2233,7 +2233,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KN
+  country_code: KN
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנט כריסטוף (סנט קיטס) ונוויס '
@@ -2243,7 +2243,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: MF
+  country_code: MF
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנט מרטין - ראה אנטילים הולנדיים '
@@ -2253,7 +2253,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: PM
+  country_code: PM
   common_name: 
   ems_group: 3
   israel_post_name: ! 'סנט פייר ומיקלון '
@@ -2263,7 +2263,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנט קיטס - ראה סנט כריסטוף '
@@ -2273,7 +2273,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: ST
+  country_code: ST
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנט תומה ופרינסיפה '
@@ -2283,7 +2283,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: SH
+  country_code: SH
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנטה  הלנה '
@@ -2293,7 +2293,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: LC
+  country_code: LC
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנטה לוצ''יה '
@@ -2303,7 +2303,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סנטה קרוז - ראה סלומון '
@@ -2313,7 +2313,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: SA
+  country_code: SA
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סעודיה - אין שירות '
@@ -2323,7 +2323,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: ES
+  country_code: ES
   common_name: 
   ems_group: 3
   israel_post_name: ! 'ספרד '
@@ -2333,7 +2333,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'סרוואק - ראה מלזיה '
@@ -2343,7 +2343,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: LK
+  country_code: LK
   common_name: 
   ems_group: 6
   israel_post_name: ! 'סרי לנקה '
@@ -2353,7 +2353,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'עג''מן - אין שירות '
@@ -2363,7 +2363,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: OM
+  country_code: OM
   common_name: 
   ems_group: 0
   israel_post_name: ! 'עומאן '
@@ -2373,7 +2373,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: IQ
+  country_code: IQ
   common_name: 
   ems_group: 0
   israel_post_name: ! 'עיראק - אין שירות '
@@ -2383,7 +2383,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: FO
+  country_code: FO
   common_name: 
   ems_group: 9
   israel_post_name: ! 'פארו (איים) - ראה דנמרק '
@@ -2393,7 +2393,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פוג''יירה - אין שירות '
@@ -2403,7 +2403,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פוטונה - ראה וליס ופוטונה '
@@ -2413,7 +2413,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: PF
+  country_code: PF
   common_name: 
   ems_group: 7
   israel_post_name: ! 'פולינזיה הצרפתית '
@@ -2423,7 +2423,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: PL
+  country_code: PL
   common_name: 
   ems_group: 3
   israel_post_name: ! 'פולין '
@@ -2433,7 +2433,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: FK
+  country_code: FK
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פוקלנד (איים) '
@@ -2443,7 +2443,7 @@
   airmail_group: 1
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: PR
+  country_code: PR
   common_name: 
   ems_group: 6
   israel_post_name: ! 'פורטו ריקו - ראה ארה"ב '
@@ -2453,7 +2453,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: PT
+  country_code: PT
   common_name: 
   ems_group: 3
   israel_post_name: ! 'פורטוגל '
@@ -2463,7 +2463,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: FJ
+  country_code: FJ
   common_name: 
   ems_group: 7
   israel_post_name: ! 'פיג''י (איים) '
@@ -2473,7 +2473,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: PN
+  country_code: PN
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פיטקרן (איים) '
@@ -2483,7 +2483,7 @@
   airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: PH
+  country_code: PH
   common_name: 
   ems_group: 5
   israel_post_name: ! 'פיליפינים '
@@ -2493,7 +2493,7 @@
   airmail_group: 3
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: FI
+  country_code: FI
   common_name: 
   ems_group: 10
   israel_post_name: ! 'פינלנד '
@@ -2503,7 +2503,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: PK
+  country_code: PK
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פקיסטן - אין שירות '
@@ -2513,7 +2513,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פמבה - ראה טנזניה '
@@ -2523,7 +2523,7 @@
   airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: PA
+  country_code: PA
   common_name: 
   ems_group: 8
   israel_post_name: ! 'פנמה (רפובליקה) '
@@ -2533,7 +2533,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: PG
+  country_code: PG
   common_name: 
   ems_group: 7
   israel_post_name: ! 'פפואה - גיניאה החדשה '
@@ -2543,7 +2543,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: PY
+  country_code: PY
   common_name: 
   ems_group: 6
   israel_post_name: ! 'פרגואי '
@@ -2553,7 +2553,7 @@
   airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: PE
+  country_code: PE
   common_name: 
   ems_group: 4
   israel_post_name: ! 'פרו '
@@ -2563,7 +2563,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פרים - אין שירות '
@@ -2573,7 +2573,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פרינסיפה - ראה סנט תומה ופרינסיפה '
@@ -2583,7 +2583,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פרנדלי (אי) - ראה טונגה '
@@ -2593,7 +2593,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'פרננדו פו - ראה גיניאה המשוונית '
@@ -2603,7 +2603,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TD
+  country_code: TD
   common_name: 
   ems_group: 4
   israel_post_name: ! 'צ''אד '
@@ -2613,7 +2613,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'צ''גוס (מאוריציוס) '
@@ -2623,7 +2623,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: CL
+  country_code: CL
   common_name: 
   ems_group: 6
   israel_post_name: ! 'צ''ילי '
@@ -2633,7 +2633,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'צ''כיה - ראה רפובליקה צ''כית '
@@ -2643,7 +2643,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'צ''סטרפילד (אי) - ראה קלדוניה החדשה '
@@ -2653,7 +2653,7 @@
   airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: FR
+  country_code: FR
   common_name: 
   ems_group: 3
   israel_post_name: ! 'צרפת '
@@ -2663,7 +2663,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קאיקוס (איים) - ראה טורקס וקאיקוס '
@@ -2673,7 +2673,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CU
+  country_code: CU
   common_name: 
   ems_group: 7
   israel_post_name: ! 'קובה '
@@ -2683,7 +2683,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: CO
+  country_code: CO
   common_name: 
   ems_group: 7
   israel_post_name: ! 'קולומביה '
@@ -2693,7 +2693,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KM
+  country_code: KM
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קומורים (איים) '
@@ -2703,7 +2703,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CG
+  country_code: CG
   common_name: 
   ems_group: 4
   israel_post_name: ! 'קונגו (רפ'') '
@@ -2713,7 +2713,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CD
+  country_code: CD
   common_name: DEMOCRATIC REPUBLIC OF CONGO
   ems_group: 6
   israel_post_name: ! 'קונגו  רפ'' דמוקרטית  (זאיר) '
@@ -2723,7 +2723,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קוסובו '
@@ -2733,7 +2733,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CR
+  country_code: CR
   common_name: 
   ems_group: 8
   israel_post_name: ! 'קוסטה ריקה '
@@ -2743,7 +2743,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CK
+  country_code: CK
   common_name: 
   ems_group: 6
   israel_post_name: ! 'קוק (איים) '
@@ -2753,7 +2753,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CC
+  country_code: CC
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קוקוס (או קילינג) '
@@ -2763,7 +2763,7 @@
   airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: KR
+  country_code: KR
   common_name: SOUTH KOREA
   ems_group: 5
   israel_post_name: ! 'קוריאה הדרומית (רפ'') '
@@ -2773,7 +2773,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KP
+  country_code: KP
   common_name: NORTH KOREA
   ems_group: 0
   israel_post_name: ! 'קוריאה הצפונית (רפ''  דמוקרטית עממית) '
@@ -2783,7 +2783,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קורסאו - ראה אנטילים הולנדיים '
@@ -2793,7 +2793,7 @@
   airmail_group: 1
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 1
   israel_post_name: ! 'קורסיקה - ראה צרפת '
@@ -2803,7 +2803,7 @@
   airmail_group: 2
   air_parcel_group: 1
   appear_in_shipping_list: 1
-  code: KZ
+  country_code: KZ
   common_name: 
   ems_group: 2
   israel_post_name: ! 'קזחסטן '
@@ -2813,7 +2813,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: QA
+  country_code: QA
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קטאר - אין שירות '
@@ -2823,7 +2823,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KY
+  country_code: KY
   common_name: 
   ems_group: 9
   israel_post_name: ! 'קיימן (איים) '
@@ -2833,7 +2833,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קילינג'' (או קוקוס) '
@@ -2843,7 +2843,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KG
+  country_code: KG
   common_name: 
   ems_group: 4
   israel_post_name: ! 'קירגיזיה '
@@ -2853,7 +2853,7 @@
   airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KI
+  country_code: KI
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קיריבטי '
@@ -2863,7 +2863,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: NC
+  country_code: NC
   common_name: 
   ems_group: 8
   israel_post_name: ! 'קלדוניה החדשה '
@@ -2873,7 +2873,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KH
+  country_code: KH
   common_name: 
   ems_group: 5
   israel_post_name: ! 'קמבודיה '
@@ -2883,7 +2883,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קמוי -  ראה סין רפ'' לאומנית '
@@ -2893,7 +2893,7 @@
   airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CM
+  country_code: CM
   common_name: 
   ems_group: 6
   israel_post_name: ! 'קמרון '
@@ -2903,7 +2903,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CA
+  country_code: CA
   common_name: 
   ems_group: 4
   israel_post_name: ! 'קנדה '
@@ -2913,7 +2913,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: KE
+  country_code: KE
   common_name: 
   ems_group: 4
   israel_post_name: ! 'קניה '
@@ -2923,7 +2923,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קנרים (איים) - ראה ספרד '
@@ -2933,7 +2933,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: CY
+  country_code: CY
   common_name: 
   ems_group: 10
   israel_post_name: ! 'קפריסין '
@@ -2943,7 +2943,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: HR
+  country_code: HR
   common_name: 
   ems_group: 3
   israel_post_name: ! 'קרואטיה '
@@ -2953,7 +2953,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קרולינים (איים) '
@@ -2963,7 +2963,7 @@
   airmail_group: 7
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: CX
+  country_code: CX
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קריסמס (אוק'' ההודי) '
@@ -2973,7 +2973,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'קריסמס (אוק'' השקט) -    ראה קיריבטי '
@@ -2983,7 +2983,7 @@
   airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: RE
+  country_code: RE
   common_name: 
   ems_group: 3
   israel_post_name: ! 'ראוניון '
@@ -2993,7 +2993,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ראס אל ח''יימה - אין שירות '
@@ -3003,7 +3003,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: RW
+  country_code: RW
   common_name: 
   ems_group: 4
   israel_post_name: ! 'רואנדה '
@@ -3013,7 +3013,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 10
   israel_post_name: ! 'רודוס - ראה יוון '
@@ -3023,7 +3023,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'רודריגז (אי) - ראה מאוריציוס '
@@ -3033,7 +3033,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: RO
+  country_code: RO
   common_name: 
   ems_group: 3
   israel_post_name: ! 'רומניה '
@@ -3043,7 +3043,7 @@
   airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'רוס - ראה ניו זילנד '
@@ -3053,7 +3053,7 @@
   airmail_group: 2
   air_parcel_group: 3
   appear_in_shipping_list: 1
-  code: RU
+  country_code: RU
   common_name: RUSSIA
   ems_group: 3
   israel_post_name: ! 'רוסיה '
@@ -3063,7 +3063,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ריו מוני - ראה גיניאה המשוונית '
@@ -3073,7 +3073,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'ריו קיו - ראה יפן '
@@ -3083,7 +3083,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: CZ
+  country_code: CZ
   common_name: 
   ems_group: 3
   israel_post_name: ! 'רפובליקה צ''כית '
@@ -3093,7 +3093,7 @@
   airmail_group: 3
   air_parcel_group: 4
   appear_in_shipping_list: 1
-  code: SE
+  country_code: SE
   common_name: 
   ems_group: 10
   israel_post_name: ! 'שבדיה '
@@ -3103,7 +3103,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: CH
+  country_code: CH
   common_name: 
   ems_group: 10
   israel_post_name: ! 'שוויצריה '
@@ -3113,7 +3113,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'שורטלנד - ראה סלומון '
@@ -3123,7 +3123,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'שפיצברגן - ראה נורבגיה '
@@ -3133,7 +3133,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: 
+  country_code: 
   common_name: 
   ems_group: 0
   israel_post_name: ! 'שרג''ה - אין שירות '
@@ -3143,7 +3143,7 @@
   airmail_group: 2
   air_parcel_group: 1
   appear_in_shipping_list: 1
-  code: TH
+  country_code: TH
   common_name: 
   ems_group: 5
   israel_post_name: ! 'תאילנד '
@@ -3153,7 +3153,7 @@
   airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
-  code: TN
+  country_code: TN
   common_name: 
   ems_group: 4
   israel_post_name: ! 'תוניסיה '
@@ -3163,7 +3163,7 @@
   airmail_group: 2
   air_parcel_group: 2
   appear_in_shipping_list: 1
-  code: TR
+  country_code: TR
   common_name: 
   ems_group: 3
   israel_post_name: ! 'תורכיה '
@@ -3173,7 +3173,7 @@
   airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
-  code: YE
+  country_code: YE
   common_name: 
   ems_group: 0
   israel_post_name: ! 'תימן - אין שירות '
@@ -3183,7 +3183,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 0
-  code: IL
+  country_code: IL
   common_name: 
   ems_group: 
   israel_post_name: ישראל
@@ -3193,7 +3193,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: AQ
+  country_code: AQ
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3203,7 +3203,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: BV
+  country_code: BV
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3213,7 +3213,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: YT
+  country_code: YT
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3223,7 +3223,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: PW
+  country_code: PW
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3233,7 +3233,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: PS
+  country_code: PS
   common_name: PALESTINIAN AUTHORITY
   ems_group: 
   israel_post_name: 
@@ -3243,7 +3243,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: BL
+  country_code: BL
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3253,7 +3253,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: GS
+  country_code: GS
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3263,7 +3263,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: SJ
+  country_code: SJ
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3273,7 +3273,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: UM
+  country_code: UM
   common_name: 
   ems_group: 
   israel_post_name: 
@@ -3283,7 +3283,7 @@
   airmail_group: 
   air_parcel_group: 
   appear_in_shipping_list: 
-  code: EH
+  country_code: EH
   common_name: 
   ems_group: 
   israel_post_name: 
