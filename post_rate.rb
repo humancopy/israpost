@@ -116,8 +116,8 @@ class InvalidWeight < StandardError; end
 class InvalidDeliveryMethod < StandardError; end
 
 class InvalidCountry < StandardError
-  def initialize(country = nil)
-    super "No such country '#{country}'"
+  def initialize(name = nil)
+    super "No such country '#{name}'"
   end
 end
 

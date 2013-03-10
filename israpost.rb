@@ -11,5 +11,5 @@ get '/get-rate' do
 end
 
 error do
-  env['sinatra.error'].name
+  env['sinatra.error'].name + env['sinatra.error'].message
 end
