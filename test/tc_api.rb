@@ -7,6 +7,7 @@ require 'json'
 # address = "http://localhost:4567/get-rate"
 address = "http://israpost.herokuapp.com/get-rate"
 params = {:country=>"japan", :weight=>350}
+
 uri = URI.parse(address)
 uri.query = URI.encode_www_form(params)
 response = Net::HTTP.get_response(uri)

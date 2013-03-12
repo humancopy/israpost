@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>post_rate.rb</string>
+	<string>README.md</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -21,14 +21,56 @@
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
+		<key>README.md</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>42</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>16</integer>
+		</dict>
+		<key>israpost.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>51</integer>
+				<key>line</key>
+				<integer>13</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>post_rate.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>2</integer>
+				<integer>34</integer>
 				<key>line</key>
-				<integer>21</integer>
+				<integer>119</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>test/tc_api.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>16</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -47,12 +89,15 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>23</integer>
+			<integer>6</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
 		<string>post_rate.rb</string>
+		<string>README.md</string>
+		<string>israpost.rb</string>
+		<string>test/tc_api.rb</string>
 		<string>test/tc_israpost.rb</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>

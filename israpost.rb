@@ -2,7 +2,7 @@ require 'sinatra'
 require_relative 'post_rate'
 
 get '/' do  
-  "Hello, World!"
+  "Goto https://github.com/mjnissim/israpost for more info."
 end
 
 get '/get-rate' do

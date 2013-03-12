@@ -3,8 +3,7 @@ israpost
 
 Israel Post shipping rates class and API. Made with Ruby, YAML and Sinatra (no DB).
 
-How to use API
---------------
+==How to use API
 
 ```ruby
 require "net/http"
@@ -45,4 +44,14 @@ else
   puts response.body
 end
 ```
+
+==Other Params
+
+Basically, if you've got the weight and country you're sending to, you're safe. But there might be other options you'll want to set.
+
+```ruby
+:parcel => true
+```
+
+Unless otherwise stated, any weight above 2,000 grams will be considered a parcel. However, there might be cases where your postman does not consider a small (but heavy) package as a parcel because it's got small dimensions; and vice versa - he might consider it a parcel, even though it's light, because it's a large box. So the ```parcel``` option should be set manually to override default assumptions.
 
