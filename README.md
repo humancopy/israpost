@@ -3,7 +3,7 @@ israpost
 
 Israel Post shipping rates class and API. Made with Ruby, YAML and Sinatra (no DB).
 
-==How to use API
+## How to use API
 
 ```ruby
 require "net/http"
@@ -45,7 +45,7 @@ else
 end
 ```
 
-==Other Params
+### Other Params
 
 Basically, if you've got the weight and country you're sending to, you're safe. But there might be other options you'll want to set.
 
