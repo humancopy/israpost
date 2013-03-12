@@ -1,5 +1,4 @@
-israpost
-========
+# israpost
 
 Israel Post shipping rates class and API. Made with Ruby, YAML and Sinatra (no DB).
 
@@ -51,7 +50,16 @@ Basically, if you've got the weight and country you're sending to, you're safe. 
 
 ```ruby
 :parcel => true
+:parcel => false
 ```
 
 Unless otherwise stated, any weight above 2,000 grams will be considered a parcel. However, there might be cases where your postman does not consider a small (but heavy) package as a parcel because it's got small dimensions; and vice versa - he might consider it a parcel, even though it's light, because it's a large box. So the ```parcel``` option should be set manually to override default assumptions.
+
+```ruby
+:delivery_method => "ems"
+:delivery_method => "airmail"
+:delivery_method => "air_parcel"
+```
+
+**israpost** will always pick the cheapest airmail delivery method for you, based on other options you set. If you know specifically that you would like your package sent via "EMS" (Express Mail Service) then you can set that option manually. In some cases, EMS can be cheaper than the normal air_parcel method.
 
