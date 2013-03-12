@@ -4,6 +4,12 @@ Israel Post shipping rates class and API. Made with Ruby, YAML and Sinatra (no D
 
 ## How to use the online API
 
+To see how it works before you try it in Ruby code, go to this link:
+
+http://israpost.herokuapp.com/get-rate?country=usa&weight=7500&delivery_method=ems&parcel=false
+
+Now, here's how to do it in Ruby.
+
 ```ruby
 require "net/http"
 require "uri"
