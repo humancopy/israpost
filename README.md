@@ -2,7 +2,7 @@
 
 Israel Post shipping rates class and API. Made with Ruby, YAML and Sinatra (no DB).
 
-## How to use API
+## How to use the online API
 
 ```ruby
 require "net/http"
@@ -11,40 +11,50 @@ require 'json'
 
 # I think I'll call my next son "JSON" (and my girl Ruby).
 
+# This is the address of the API:
 address = "http://israpost.herokuapp.com/get-rate"
+
+# Set your parameters, especially country and weight.
 params = {:country=>"japan", :weight=>350}
+
 uri = URI.parse(address)
 uri.query = URI.encode_www_form(params)
 response = Net::HTTP.get_response(uri)
 
-if response.code.to_i==200
+if response.code.to_i==200 # i.e. it's OK
   my_hash = JSON.load(response.body)
-  puts my_hash.collect {|k,v| "#{k} => #{v}\n" }
-  # This is the kind of result you get:
-  # airmail_group => 3
-  # ems_group => 5
-  # name_calculated => JAPAN
-  # israel_post_name => יפן 
-  # air_parcel_group => 3
-  # appear_in_shipping_list => 1
-  # country_code => JP
-  # common_name => 
-  # official_name_english => JAPAN
-  # airmail => 14.9
-  # air_parcel => 89.5
-  # ems => 91.0
-  # cost => 14.9
-  # weight => 350
-  # country => JAPAN
-  # delivery_method => airmail
-  # parcel => false
 else
   puts "Error, code #{response.code}."
   puts response.body
 end
 ```
 
-### Other Params
+The kind of response you'll get is something like this:
+
+```ruby
+puts my_hash.collect {|k,v| "#{k} => #{v}\n" }
+# airmail_group => 3
+# ems_group => 5
+# name_calculated => JAPAN
+# israel_post_name => יפן 
+# air_parcel_group => 3
+# appear_in_shipping_list => 1
+# country_code => JP
+# common_name => 
+# official_name_english => JAPAN
+# airmail => 14.9
+# air_parcel => 89.5
+# ems => 91.0
+# cost => 14.9
+# weight => 350
+# country => JAPAN
+# delivery_method => airmail
+# parcel => false
+```
+
+What you usually need to look for is ```cost```. **isralpost** always picks the cheapest airmail method and throws it into ```cost```.
+
+### Other Options
 
 Basically, if you've got the weight and country you're sending to, you're safe. But there might be other options you'll want to set.
 
