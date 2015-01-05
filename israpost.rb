@@ -18,8 +18,11 @@ helpers do
   def parsed_body
     ::MultiJson.decode(request.body)
   end
-  def price(base_price)
+  def ship_price(base_price)
     (((base_price + HANDLING_PRICE) / CURRENCY_RATE).round(2).to_d*100).to_i
+  end
+  def ship_date(days)
+    (DateTime.now + days).strftime('%Y-%m-%d %H:%M:%S %z')
   end
 end
 
@@ -30,7 +33,7 @@ end
 post '/rates' do
   data = parsed_body
   weight = data['rate']['items'].inject(0) { |mem, item| mem + (item['grams'].to_i*item['quantity'].to_i) }
-  allow_normal = weight <= 2000 && data['rate']['items'].detect { |item| item['sku'] =~ /^D-PRNT/i }.blank?
+  allow_airmail = weight <= 2000 && data['rate']['items'].detect { |item| item['sku'] =~ /^D-PRNT/i }.blank?
   r = PostRate.new({ country: data['rate']['destination']['country'], weight: weight })
 
   post_rates = ::MultiJson.decode(r.to_json)
@@ -41,20 +44,20 @@ post '/rates' do
   rates << {
     service_name: "registered airmail",
     service_code: "AIR",
-    total_price: price(post_rates['airmail']),
+    total_price: ship_price(post_rates['airmail']),
     currency: CURRENCY_CODE,
-    min_delivery_date: DateTime.now + 7.days,
-    max_delivery_date: DateTime.now + 21.days
-  } if allow_normal
+    min_delivery_date: ship_date(9.days),
+    max_delivery_date: ship_date(29.days)
+  } if allow_airmail
 
   # add speed post
   rates << {
     service_name: "speed post",
     service_code: "EMS",
-    total_price: price(post_rates['ems']),
+    total_price: ship_price(post_rates['ems']),
     currency: CURRENCY_CODE,
-    min_delivery_date: DateTime.now + 3.days,
-    max_delivery_date: DateTime.now + 5.days
+    min_delivery_date: ship_date(3.days),
+    max_delivery_date: ship_date(7.days)
   }
 
   json :rates => rates
