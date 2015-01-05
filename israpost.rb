@@ -19,7 +19,7 @@ helpers do
     ::MultiJson.decode(request.body)
   end
   def price(base_price)
-    ((base_price + HANDLING_PRICE) / CURRENCY_RATE).round(2)
+    ((base_price + HANDLING_PRICE) / CURRENCY_RATE).round(2)*100
   end
 end
 
