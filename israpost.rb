@@ -10,7 +10,7 @@ else
   PASSWORD  = '79b6b3e1c31eb1868fcfbeece019c265'
 end
 
-HANDLING_PRICE = 12 # in ILS
+HANDLING_PRICE = 15 # in ILS
 CURRENCY_CODE  = 'EUR'
 CURRENCY_RATE  = 4.7
 
@@ -19,7 +19,7 @@ helpers do
     ::MultiJson.decode(request.body)
   end
   def price(base_price)
-    ((base_price + HANDLING_PRICE) / CURRENCY_RATE).round(2)*100
+    (((base_price + HANDLING_PRICE) / CURRENCY_RATE).round(2).to_d*100).to_i
   end
 end
 
