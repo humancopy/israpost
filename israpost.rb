@@ -24,7 +24,7 @@ get '/' do
   "Goto https://github.com/mjnissim/israpost for more info."
 end
 
-post '/get-rate' do
+post '/rates' do
   data = parsed_body
   weight = data['rate']['items'].inject(0) { |mem, item| mem + item['grams'] }
   r = PostRate.new({ country: data['rate']['destination']['country'], weight: weight })
@@ -51,15 +51,17 @@ post '/get-rate' do
     ]
 end
 
-get '/add-service' do
+get '/create' do
   shop_url = "https://#{API_KEY}:#{PASSWORD}@#{SHOP_NAME}.myshopify.com/admin"
   ShopifyAPI::Base.site = shop_url
+
+  ShopifyAPI::CarrierService.all.collect(&:destroy)
 
   success  = 0
   services = [
     {
       name: 'israeli post',
-      callback_url: 'http://shopify-israpost.heroku.com/air',
+      callback_url: 'http://shopify-israpost.heroku.com/rates',
       service_discovery: true,
       format: 'json'
     }
@@ -73,7 +75,7 @@ get '/add-service' do
     logger.info "new_service = #{new_service.inspect}"
     success = success + 1 if new_service.save
   end
-  success == new_services.count ? "done ;)" : "problem :("
+  success == services.count ? "done ;)" : "problem :("
 end
 
 error do
