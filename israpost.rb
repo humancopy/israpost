@@ -10,7 +10,7 @@ else
   PASSWORD  = '79b6b3e1c31eb1868fcfbeece019c265'
 end
 
-HANDLING_PRICE = 15 # in ILS
+HANDLING_PRICE = 14.40 # in ILS
 CURRENCY_CODE  = 'EUR'
 CURRENCY_RATE  = 4.7
 
@@ -29,7 +29,7 @@ end
 
 post '/rates' do
   data = parsed_body
-  weight = data['rate']['items'].inject(0) { |mem, item| mem + item['grams'] }
+  weight = data['rate']['items'].inject(0) { |mem, item| mem + (item['grams'].to_i*item['quantity'].to_i) }
   allow_normal = weight <= 2000 && data['rate']['items'].detect { |item| item['sku'] =~ /^D-PRNT/i }.blank?
   r = PostRate.new({ country: data['rate']['destination']['country'], weight: weight })
 
