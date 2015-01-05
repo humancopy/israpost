@@ -30,28 +30,34 @@ end
 post '/rates' do
   data = parsed_body
   weight = data['rate']['items'].inject(0) { |mem, item| mem + item['grams'] }
+  allow_normal = weight <= 2000 && data['rate']['items'].detect { |item| item['sku'] =~ /^D-PRNT/i }.blank?
   r = PostRate.new({ country: data['rate']['destination']['country'], weight: weight })
 
-  rates = ::MultiJson.decode(r.to_json)
+  post_rates = ::MultiJson.decode(r.to_json)
 
-  json :rates => [
-      {
-        service_name: "registered mail",
-        service_code: "AIR",
-        total_price: price(rates['airmail']),
-        currency: CURRENCY_CODE,
-        min_delivery_date: DateTime.now + 7.days,
-        max_delivery_date: DateTime.now + 21.days
-      },
-      {
-        service_name: "speed post",
-        service_code: "EMS",
-        total_price: price(rates['ems']),
-        currency: CURRENCY_CODE,
-        min_delivery_date: DateTime.now + 3.days,
-        max_delivery_date: DateTime.now + 5.days
-      }
-    ]
+  rates = []
+
+  # add registered airmail
+  rates << {
+    service_name: "registered airmail",
+    service_code: "AIR",
+    total_price: price(post_rates['airmail']),
+    currency: CURRENCY_CODE,
+    min_delivery_date: DateTime.now + 7.days,
+    max_delivery_date: DateTime.now + 21.days
+  } if allow_normal
+
+  # add speed post
+  rates << {
+    service_name: "speed post",
+    service_code: "EMS",
+    total_price: price(post_rates['ems']),
+    currency: CURRENCY_CODE,
+    min_delivery_date: DateTime.now + 3.days,
+    max_delivery_date: DateTime.now + 5.days
+  }
+
+  json :rates => rates
 end
 
 get '/create' do
@@ -65,6 +71,7 @@ get '/create' do
       name: 'israeli post',
       callback_url: 'https://shopify-israpost.herokuapp.com/rates',
       service_discovery: true,
+      carrier_service_type: 'api',
       format: 'json'
     }
   ].select { |service| !ShopifyAPI::CarrierService.create(service) }.any? ? "problem :(" : "done ;)"
