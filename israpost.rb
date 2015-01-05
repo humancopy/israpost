@@ -42,7 +42,7 @@ post '/rates' do
 
   # add registered airmail
   rates << {
-    service_name: "registered airmail",
+    service_name: "Registered Airmail",
     service_code: "AIR",
     total_price: ship_price(post_rates['airmail']),
     currency: CURRENCY_CODE,
@@ -52,7 +52,7 @@ post '/rates' do
 
   # add speed post
   rates << {
-    service_name: "speed post",
+    service_name: "Speed Post",
     service_code: "EMS",
     total_price: ship_price(post_rates['ems']),
     currency: CURRENCY_CODE,
