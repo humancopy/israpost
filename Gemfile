@@ -6,6 +6,7 @@ gem 'sinatra-contrib'
 gem 'activesupport'
 gem 'multi_json'
 gem 'shopify_api'
+gem 'newrelic_rpm'
 
 group :development do
   gem 'foreman'
