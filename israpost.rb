@@ -24,16 +24,34 @@ helpers do
   def ship_date(days)
     (DateTime.now + days).strftime('%Y-%m-%d %H:%M:%S %z')
   end
+  def poster?(data)
+    !data['rate']['items'].detect { |item| item['sku'] =~ /^D-PRNT/i }.blank?
+  end
+  def sku_base(sku)
+    sku.split('-')[0..1].join('-')
+  end
+  def big_package?(data)
+    skus = data['rate']['items'].collect { |item| sku_base(item['sku']) }
+    jackets_skus = ['M-SWSH', 'M-HJKT']
+    total_items = data['rate']['items'].inject(0) { |mem, item| mem + item['quantity'].to_i }
+    (skus & jackets_skus).present? && ( # an order with jackets
+      total_items > 7 || # more than 7 items
+      (skus.include?('A-BLTB') && total_items > 2) || # belt bag with more than 2 items
+      (data['rate']['items'].inject(0) { |mem,item| mem + (jackets_skus.include?(sku_base(item['sku'])) ? item['quantity'].to_i : 0) } > 1) # atleast 2 jackets
+    )
+  end
+  def allow_regular?(weight, data)
+    weight < 2000 && !poster?(data) && !big_package?(data)
+  end
 end
 
 get '/' do
   "Goto https://github.com/humancopy/shopify-israpost for more info."
 end
-
 post '/rates' do
   data = parsed_body
   weight = data['rate']['items'].inject(0) { |mem, item| mem + (item['grams'].to_i*item['quantity'].to_i) }
-  allow_airmail = weight <= 2000 && data['rate']['items'].detect { |item| item['sku'] =~ /^D-PRNT/i }.blank?
+  cart_total = data['rate']['items'].inject(0) { |mem, item| mem + (item['price'].to_i*item['quantity'].to_i) }
   r = PostRate.new({ country: data['rate']['destination']['country'], weight: weight })
 
   post_rates = ::MultiJson.decode(r.to_json)
@@ -48,7 +66,7 @@ post '/rates' do
     currency: CURRENCY_CODE,
     min_delivery_date: ship_date(9.days),
     max_delivery_date: ship_date(29.days)
-  } if allow_airmail
+  } if allow_regular?(weight, data)
 
   # add speed post
   rates << {
