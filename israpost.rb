@@ -76,7 +76,7 @@ post '/rates' do
     currency: CURRENCY_CODE,
     min_delivery_date: ship_date(3.days),
     max_delivery_date: ship_date(7.days)
-  }
+  } unless post_rates['ems'].zero?
 
   json :rates => rates
 end

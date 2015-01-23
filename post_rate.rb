@@ -88,6 +88,7 @@ private
     rates        = rates_for[self.send(:"#{name}_group")]
     additions    = rates_for["additions"]
     weight_limit = rates_for["weight_limit"]
+    return 0 if rates.nil?
     max_priced_weight = rates.select{|k,v|k.is_a?(Range)}.collect{|k,v|k.max}.last
     if weight <= max_priced_weight
       rate = rates.select{|k,v|k===weight}.values.first
