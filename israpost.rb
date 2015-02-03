@@ -10,9 +10,9 @@ else
   PASSWORD  = '79b6b3e1c31eb1868fcfbeece019c265'
 end
 
-HANDLING_PRICE = 14.40 # in ILS
+HANDLING_PRICE = 10 # in ILS
 CURRENCY_CODE  = 'EUR'
-CURRENCY_RATE  = 4.7
+CURRENCY_RATE  = 4.28
 
 helpers do
   def parsed_body

@@ -3,46 +3,46 @@ weight_limit: 20000
 additions: 1000
 
 1:
-    !ruby/range 1..500: 74
-    !ruby/range 501..1000: 94
-    addition: 32.5
+    !ruby/range 1..500: 87.00
+    !ruby/range 501..1000: 107.00
+    addition: 37.00
 2:
-    !ruby/range 1..500: 97
-    !ruby/range 501..1000: 119
-    addition: 35
+    !ruby/range 1..500: 105.00
+    !ruby/range 501..1000: 130.00
+    addition: 39.00
 3:
-    !ruby/range 1..500: 102
-    !ruby/range 501..1000: 107
-    addition: 14
+    !ruby/range 1..500: 109.00
+    !ruby/range 501..1000: 116.00
+    addition: 15.00
 4:
-    !ruby/range 1..500: 101
-    !ruby/range 501..1000: 115
-    addition: 26
+    !ruby/range 1..500: 108.00
+    !ruby/range 501..1000: 126.00
+    addition: 29.00
 5:
-    !ruby/range 1..500: 91
-    !ruby/range 501..1000: 113
-    addition: 25
+    !ruby/range 1..500: 98.00
+    !ruby/range 501..1000: 123.00
+    addition: 29.00
 6:
-    !ruby/range 1..500: 99
-    !ruby/range 501..1000: 117
-    addition: 29
+    !ruby/range 1..500: 106.00
+    !ruby/range 501..1000: 128.00
+    addition: 33.00
 7:
-    !ruby/range 1..500: 93
-    !ruby/range 501..1000: 121
-    addition: 36
+    !ruby/range 1..500: 100.00
+    !ruby/range 501..1000: 133.00
+    addition: 40.00
 8:
-    !ruby/range 1..500: 113
-    !ruby/range 501..1000: 132
-    addition: 33
+    !ruby/range 1..500: 121.00
+    !ruby/range 501..1000: 142.00
+    addition: 37.00
 9:
-    !ruby/range 1..500: 150
-    !ruby/range 501..1000: 167
-    addition: 25
+    !ruby/range 1..500: 161.00
+    !ruby/range 501..1000: 182.00
+    addition: 28.00
 10:
-    !ruby/range 1..500: 110
-    !ruby/range 501..1000: 122
-    addition: 16
+    !ruby/range 1..500: 117.00
+    !ruby/range 501..1000: 134.00
+    addition: 18.00
 11:
-    !ruby/range 1..500: 130
-    !ruby/range 501..1000: 135
-    addition: 21
+    !ruby/range 1..500: 178.00
+    !ruby/range 501..1000: 190.00
+    addition: 29.00
