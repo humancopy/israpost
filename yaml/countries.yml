@@ -9,6 +9,7 @@
   israel_post_name: "אבו דבי - אין שירות"
   name_calculated: ABU DHABI
   official_name_english: ABU DHABI
+  eco_group: 0
 1:
   airmail_group: 6
   air_parcel_group: 5
@@ -19,6 +20,7 @@
   israel_post_name: "אדמירלטי"
   name_calculated: ADMIRALTY ISLANDS
   official_name_english: ADMIRALTY ISLANDS
+  eco_group: 0
 2:
   airmail_group: 6
   air_parcel_group: 5
@@ -29,6 +31,7 @@
   israel_post_name: "אוגנדה"
   name_calculated: UGANDA
   official_name_english: UGANDA
+  eco_group: 0
 3:
   airmail_group: 4
   air_parcel_group: 2
@@ -39,6 +42,7 @@
   israel_post_name: "אוזבקיסטן"
   name_calculated: UZBEKISTAN
   official_name_english: UZBEKISTAN
+  eco_group: 0
 4:
   airmail_group: 0
   air_parcel_group: 0
@@ -49,6 +53,7 @@
   israel_post_name: "אום אל-קייוין - אין שירות"
   name_calculated: UMM AL-QUWAIN
   official_name_english: UMM AL-QUWAIN
+  eco_group: 0
 5:
   airmail_group: 3
   air_parcel_group: 3
@@ -59,6 +64,7 @@
   israel_post_name: "אוסטריה"
   name_calculated: AUSTRIA
   official_name_english: AUSTRIA
+  eco_group: 0
 6:
   airmail_group: 2
   air_parcel_group: 5
@@ -69,6 +75,7 @@
   israel_post_name: "אוסטרליה"
   name_calculated: AUSTRALIA
   official_name_english: AUSTRALIA
+  eco_group: 3
 7:
   airmail_group: 4
   air_parcel_group: 3
@@ -79,6 +86,7 @@
   israel_post_name: "אוקראינה"
   name_calculated: UKRAINE
   official_name_english: UKRAINE
+  eco_group: 0
 8:
   airmail_group: 5
   air_parcel_group: 5
@@ -89,6 +97,7 @@
   israel_post_name: "אורוגואי"
   name_calculated: URUGUAY
   official_name_english: URUGUAY
+  eco_group: 0
 9:
   airmail_group: 3
   air_parcel_group: 2
@@ -99,6 +108,7 @@
   israel_post_name: "אזוריים (איים)"
   name_calculated: AZORES
   official_name_english: AZORES
+  eco_group: 0
 10:
   airmail_group: 4
   air_parcel_group: 3
@@ -109,6 +119,7 @@
   israel_post_name: "אזרבאיג'ן"
   name_calculated: AZERBAIJAN
   official_name_english: AZERBAIJAN
+  eco_group: 0
 11:
   airmail_group: 3
   air_parcel_group: 3
@@ -119,6 +130,7 @@
   israel_post_name: "איטליה"
   name_calculated: ITALY
   official_name_english: ITALY
+  eco_group: 0
 12:
   airmail_group: 5
   air_parcel_group: 5
@@ -129,6 +141,7 @@
   israel_post_name: "אינדונזיה"
   name_calculated: INDONESIA
   official_name_english: INDONESIA
+  eco_group: 0
 13:
   airmail_group: 3
   air_parcel_group: 5
@@ -139,6 +152,7 @@
   israel_post_name: "איסלנד"
   name_calculated: ICELAND
   official_name_english: ICELAND
+  eco_group: 0
 14:
   airmail_group: 3
   air_parcel_group: 2
@@ -149,6 +163,7 @@
   israel_post_name: "אירלנד"
   name_calculated: IRELAND
   official_name_english: IRELAND
+  eco_group: 0
 15:
   airmail_group: 0
   air_parcel_group: 0
@@ -159,6 +174,7 @@
   israel_post_name: "אירן (פרס) - אין שירות"
   name_calculated: IRAN
   official_name_english: IRAN, ISLAMIC REPUBLIC OF
+  eco_group: 0
 16:
   airmail_group: 5
   air_parcel_group: 5
@@ -169,6 +185,7 @@
   israel_post_name: "אל-סלוואדור"
   name_calculated: EL SALVADOR
   official_name_english: EL SALVADOR
+  eco_group: 0
 17:
   airmail_group: 4
   air_parcel_group: 3
@@ -179,6 +196,7 @@
   israel_post_name: "אלבניה"
   name_calculated: ALBANIA
   official_name_english: ALBANIA
+  eco_group: 0
 18:
   airmail_group: 6
   air_parcel_group: 0
@@ -189,6 +207,7 @@
   israel_post_name: "אלגיריה"
   name_calculated: ALGERIA
   official_name_english: ALGERIA
+  eco_group: 0
 19:
   airmail_group: 3
   air_parcel_group: 2
@@ -199,6 +218,7 @@
   israel_post_name: "אלנד (איים)"
   name_calculated: "ÅLAND ISLANDS"
   official_name_english: "ÅLAND ISLANDS"
+  eco_group: 0
 20:
   airmail_group: 1
   air_parcel_group: 1
@@ -209,6 +229,7 @@
   israel_post_name: "אלסקה"
   name_calculated: ALASKA
   official_name_english: ALASKA
+  eco_group: 0
 21:
   airmail_group: 6
   air_parcel_group: 4
@@ -219,6 +240,7 @@
   israel_post_name: "אנגולה"
   name_calculated: ANGOLA
   official_name_english: ANGOLA
+  eco_group: 0
 22:
   airmail_group: 6
   air_parcel_group: 5
@@ -229,6 +251,7 @@
   israel_post_name: "אנגילה"
   name_calculated: ANGUILLA
   official_name_english: ANGUILLA
+  eco_group: 0
 23:
   airmail_group: 3
   air_parcel_group: 3
@@ -239,6 +262,7 @@
   israel_post_name: "אנדורה"
   name_calculated: ANDORRA
   official_name_english: ANDORRA
+  eco_group: 0
 24:
   airmail_group: 6
   air_parcel_group: 4
@@ -249,6 +273,7 @@
   israel_post_name: "אנדמן"
   name_calculated: ANDAMAN ISLANDS
   official_name_english: ANDAMAN ISLANDS
+  eco_group: 0
 25:
   airmail_group: 6
   air_parcel_group: 5
@@ -259,6 +284,7 @@
   israel_post_name: "אנטיגואה וברבודה"
   name_calculated: ANTIGUA AND BARBUDA
   official_name_english: ANTIGUA AND BARBUDA
+  eco_group: 0
 26:
   airmail_group: 6
   air_parcel_group: 5
@@ -269,6 +295,7 @@
   israel_post_name: "אנטילים הולנדיים"
   name_calculated: NETHERLANDS ANTILLES
   official_name_english: NETHERLANDS ANTILLES
+  eco_group: 0
 27:
   airmail_group: 4
   air_parcel_group: 2
@@ -279,6 +306,7 @@
   israel_post_name: "אסטוניה"
   name_calculated: ESTONIA
   official_name_english: ESTONIA
+  eco_group: 0
 28:
   airmail_group: 6
   air_parcel_group: 5
@@ -289,6 +317,7 @@
   israel_post_name: "אסנסיון"
   name_calculated: ASCENSION
   official_name_english: ASCENSION
+  eco_group: 0
 29:
   airmail_group: 6
   air_parcel_group: 5
@@ -299,6 +328,7 @@
   israel_post_name: "אפגניסטן"
   name_calculated: AFGHANISTAN
   official_name_english: AFGHANISTAN
+  eco_group: 0
 30:
   airmail_group: 5
   air_parcel_group: 5
@@ -309,6 +339,7 @@
   israel_post_name: "אקואדור"
   name_calculated: ECUADOR
   official_name_english: ECUADOR
+  eco_group: 0
 31:
   airmail_group: 5
   air_parcel_group: 5
@@ -319,6 +350,7 @@
   israel_post_name: "ארגנטינה"
   name_calculated: ARGENTINA
   official_name_english: ARGENTINA
+  eco_group: 0
 32:
   airmail_group: 1
   air_parcel_group: 1
@@ -329,6 +361,7 @@
   israel_post_name: ארה"ב (ארצות הברית)
   name_calculated: USA
   official_name_english: UNITED STATES
+  eco_group: 1
 33:
   airmail_group: 6
   air_parcel_group: 5
@@ -339,6 +372,7 @@
   israel_post_name: "ארובה"
   name_calculated: ARUBA
   official_name_english: ARUBA
+  eco_group: 0
 34:
   airmail_group: 6
   air_parcel_group: 4
@@ -349,6 +383,7 @@
   israel_post_name: "אריתריאה"
   name_calculated: ERITREA
   official_name_english: ERITREA
+  eco_group: 0
 35:
   airmail_group: 4
   air_parcel_group: 2
@@ -359,6 +394,7 @@
   israel_post_name: "ארמניה"
   name_calculated: ARMENIA
   official_name_english: ARMENIA
+  eco_group: 0
 36:
   airmail_group: 6
   air_parcel_group: 4
@@ -369,6 +405,7 @@
   israel_post_name: "אתיופיה"
   name_calculated: ETHIOPIA
   official_name_english: ETHIOPIA
+  eco_group: 0
 37:
   airmail_group: 5
   air_parcel_group: 5
@@ -379,6 +416,7 @@
   israel_post_name: "בהאמה (איים)"
   name_calculated: BAHAMAS
   official_name_english: BAHAMAS
+  eco_group: 0
 38:
   airmail_group: 6
   air_parcel_group: 4
@@ -389,6 +427,7 @@
   israel_post_name: "בהוטן"
   name_calculated: BHUTAN
   official_name_english: BHUTAN
+  eco_group: 0
 39:
   airmail_group: 6
   air_parcel_group: 5
@@ -399,6 +438,7 @@
   israel_post_name: "בוגנוויל"
   name_calculated: Bougainville Island
   official_name_english: Bougainville Island
+  eco_group: 0
 40:
   airmail_group: 4
   air_parcel_group: 3
@@ -409,6 +449,7 @@
   israel_post_name: "בולגריה"
   name_calculated: BULGARIA
   official_name_english: BULGARIA
+  eco_group: 0
 41:
   airmail_group: 5
   air_parcel_group: 5
@@ -419,6 +460,7 @@
   israel_post_name: "בוליביה"
   name_calculated: BOLIVIA
   official_name_english: BOLIVIA, PLURINATIONAL STATE OF
+  eco_group: 0
 42:
   airmail_group: 6
   air_parcel_group: 5
@@ -429,6 +471,7 @@
   israel_post_name: "בונייר"
   name_calculated: BONAIRE
   official_name_english: BONAIRE
+  eco_group: 0
 43:
   airmail_group: 4
   air_parcel_group: 3
@@ -439,6 +482,7 @@
   israel_post_name: "בוסניה - הרצגובינה"
   name_calculated: BOSNIA AND HERZEGOVINA
   official_name_english: BOSNIA AND HERZEGOVINA
+  eco_group: 0
 44:
   airmail_group: 3
   air_parcel_group: 4
@@ -449,6 +493,7 @@
   israel_post_name: "בופוטצואנה"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 45:
   airmail_group: 6
   air_parcel_group: 4
@@ -459,6 +504,7 @@
   israel_post_name: "בוצואנה"
   name_calculated: BOTSWANA
   official_name_english: BOTSWANA
+  eco_group: 0
 46:
   airmail_group: 6
   air_parcel_group: 5
@@ -469,6 +515,7 @@
   israel_post_name: "בוקה"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 47:
   airmail_group: 6
   air_parcel_group: 5
@@ -479,6 +526,7 @@
   israel_post_name: "בורונדי"
   name_calculated: BURUNDI
   official_name_english: BURUNDI
+  eco_group: 0
 48:
   airmail_group: 6
   air_parcel_group: 5
@@ -489,6 +537,7 @@
   israel_post_name: "בורמה"
   name_calculated: BURMA
   official_name_english: BURMA
+  eco_group: 0
 49:
   airmail_group: 6
   air_parcel_group: 5
@@ -499,6 +548,7 @@
   israel_post_name: "בורקינה פאסו"
   name_calculated: BURKINA FASO
   official_name_english: BURKINA FASO
+  eco_group: 0
 50:
   airmail_group: 0
   air_parcel_group: 0
@@ -509,6 +559,7 @@
   israel_post_name: "בחריין - אין שירות"
   name_calculated: BAHRAIN
   official_name_english: BAHRAIN
+  eco_group: 0
 51:
   airmail_group: 6
   air_parcel_group: 5
@@ -519,6 +570,7 @@
   israel_post_name: "ביסמרק"
   name_calculated: BISMARCK
   official_name_english: BISMARCK
+  eco_group: 0
 52:
   airmail_group: 3
   air_parcel_group: 2
@@ -529,6 +581,7 @@
   israel_post_name: "בלגיה"
   name_calculated: BELGIUM
   official_name_english: BELGIUM
+  eco_group: 1
 53:
   airmail_group: 3
   air_parcel_group: 3
@@ -539,6 +592,7 @@
   israel_post_name: "בליארים (איים)"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 54:
   airmail_group: 6
   air_parcel_group: 5
@@ -549,6 +603,7 @@
   israel_post_name: "בליז"
   name_calculated: BELIZE
   official_name_english: BELIZE
+  eco_group: 0
 55:
   airmail_group: 4
   air_parcel_group: 2
@@ -559,6 +614,7 @@
   israel_post_name: "בלרוס"
   name_calculated: BELARUS
   official_name_english: BELARUS
+  eco_group: 0
 56:
   airmail_group: 6
   air_parcel_group: 5
@@ -569,6 +625,7 @@
   israel_post_name: "בנגלה - דש"
   name_calculated: BANGLADESH
   official_name_english: BANGLADESH
+  eco_group: 0
 57:
   airmail_group: 6
   air_parcel_group: 4
@@ -579,6 +636,7 @@
   israel_post_name: "בנין"
   name_calculated: BENIN
   official_name_english: BENIN
+  eco_group: 0
 58:
   airmail_group: 6
   air_parcel_group: 5
@@ -589,6 +647,7 @@
   israel_post_name: "בנקס וטורס"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 59:
   airmail_group: 6
   air_parcel_group: 5
@@ -599,6 +658,7 @@
   israel_post_name: "ברבדוס"
   name_calculated: BARBADOS
   official_name_english: BARBADOS
+  eco_group: 0
 60:
   airmail_group: 6
   air_parcel_group: 5
@@ -609,6 +669,7 @@
   israel_post_name: "ברבודה"
   name_calculated: BARBUDA
   official_name_english: BARBUDA
+  eco_group: 0
 61:
   airmail_group: 6
   air_parcel_group: 5
@@ -619,6 +680,7 @@
   israel_post_name: "ברוניי דרוסלם"
   name_calculated: BRUNEI DARUSSALAM
   official_name_english: BRUNEI DARUSSALAM
+  eco_group: 0
 62:
   airmail_group: 5
   air_parcel_group: 5
@@ -629,6 +691,7 @@
   israel_post_name: "ברזיל"
   name_calculated: BRAZIL
   official_name_english: BRAZIL
+  eco_group: 0
 63:
   airmail_group: 3
   air_parcel_group: 2
@@ -639,6 +702,7 @@
   israel_post_name: "בריטניה ואירלנד הצפ'"
   name_calculated: UK
   official_name_english: UNITED KINGDOM
+  eco_group: 1
 64:
   airmail_group: 6
   air_parcel_group: 5
@@ -649,6 +713,7 @@
   israel_post_name: "ברמודה"
   name_calculated: BERMUDA
   official_name_english: BERMUDA
+  eco_group: 0
 65:
   airmail_group: 6
   air_parcel_group: 5
@@ -659,6 +724,7 @@
   israel_post_name: "ג'יבוטי"
   name_calculated: DJIBOUTI
   official_name_english: DJIBOUTI
+  eco_group: 0
 66:
   airmail_group: 5
   air_parcel_group: 5
@@ -669,6 +735,7 @@
   israel_post_name: "ג'מאיקה"
   name_calculated: JAMAICA
   official_name_english: JAMAICA
+  eco_group: 0
 67:
   airmail_group: 3
   air_parcel_group: 2
@@ -679,6 +746,7 @@
   israel_post_name: "ג'רסי"
   name_calculated: JERSEY
   official_name_english: JERSEY
+  eco_group: 0
 68:
   airmail_group: 6
   air_parcel_group: 4
@@ -689,6 +757,7 @@
   israel_post_name: "גאנה"
   name_calculated: GHANA
   official_name_english: GHANA
+  eco_group: 0
 69:
   airmail_group: 6
   air_parcel_group: 5
@@ -699,6 +768,7 @@
   israel_post_name: "גבון"
   name_calculated: GABON
   official_name_english: GABON
+  eco_group: 0
 70:
   airmail_group: 6
   air_parcel_group: 5
@@ -709,6 +779,7 @@
   israel_post_name: "גואדלופ"
   name_calculated: GUADELOUPE
   official_name_english: GUADELOUPE
+  eco_group: 0
 71:
   airmail_group: 5
   air_parcel_group: 5
@@ -719,6 +790,7 @@
   israel_post_name: "גואטמלה"
   name_calculated: GUATEMALA
   official_name_english: GUATEMALA
+  eco_group: 0
 72:
   airmail_group: 1
   air_parcel_group: 1
@@ -729,6 +801,7 @@
   israel_post_name: "גואם (אי)"
   name_calculated: GUAM
   official_name_english: GUAM
+  eco_group: 0
 73:
   airmail_group: 6
   air_parcel_group: 5
@@ -739,6 +812,7 @@
   israel_post_name: "גויאנה"
   name_calculated: GUYANA
   official_name_english: GUYANA
+  eco_group: 0
 74:
   airmail_group: 3
   air_parcel_group: 3
@@ -749,6 +823,7 @@
   israel_post_name: "גויאנה הצרפתית"
   name_calculated: FRENCH GUIANA
   official_name_english: FRENCH GUIANA
+  eco_group: 0
 75:
   airmail_group: 4
   air_parcel_group: 2
@@ -759,6 +834,7 @@
   israel_post_name: "גיאורגיה"
   name_calculated: GEORGIA
   official_name_english: GEORGIA
+  eco_group: 0
 76:
   airmail_group: 3
   air_parcel_group: 5
@@ -769,6 +845,7 @@
   israel_post_name: "גיברלטר"
   name_calculated: GIBRALTAR
   official_name_english: GIBRALTAR
+  eco_group: 0
 77:
   airmail_group: 6
   air_parcel_group: 5
@@ -779,6 +856,7 @@
   israel_post_name: "גילברט"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 78:
   airmail_group: 6
   air_parcel_group: 5
@@ -789,6 +867,7 @@
   israel_post_name: "גיניאה (רפ')"
   name_calculated: GUINEA
   official_name_english: GUINEA
+  eco_group: 0
 79:
   airmail_group: 6
   air_parcel_group: 5
@@ -799,6 +878,7 @@
   israel_post_name: "גיניאה ביסאו"
   name_calculated: GUINEA-BISSAU
   official_name_english: GUINEA-BISSAU
+  eco_group: 0
 80:
   airmail_group: 6
   air_parcel_group: 5
@@ -809,6 +889,7 @@
   israel_post_name: "גיניאה המשוונית"
   name_calculated: EQUATORIAL GUINEA
   official_name_english: EQUATORIAL GUINEA
+  eco_group: 0
 81:
   airmail_group: 6
   air_parcel_group: 5
@@ -819,6 +900,7 @@
   israel_post_name: "גמביה"
   name_calculated: GAMBIA
   official_name_english: GAMBIA
+  eco_group: 0
 82:
   airmail_group: 6
   air_parcel_group: 5
@@ -829,6 +911,7 @@
   israel_post_name: "גמבייר (איים)"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 83:
   airmail_group: 3
   air_parcel_group: 0
@@ -839,6 +922,7 @@
   israel_post_name: "גרינלנד (אי)"
   name_calculated: GREENLAND
   official_name_english: GREENLAND
+  eco_group: 0
 84:
   airmail_group: 3
   air_parcel_group: 2
@@ -849,6 +933,7 @@
   israel_post_name: "גרמניה"
   name_calculated: GERMANY
   official_name_english: GERMANY
+  eco_group: 1
 85:
   airmail_group: 6
   air_parcel_group: 5
@@ -859,6 +944,7 @@
   israel_post_name: "גרנדה (אי)"
   name_calculated: GRENADA
   official_name_english: GRENADA
+  eco_group: 0
 86:
   airmail_group: 3
   air_parcel_group: 2
@@ -869,6 +955,7 @@
   israel_post_name: "גרנסי"
   name_calculated: GUERNSEY
   official_name_english: GUERNSEY
+  eco_group: 0
 87:
   airmail_group: 0
   air_parcel_group: 0
@@ -879,6 +966,7 @@
   israel_post_name: "דוביי - אין שירות"
   name_calculated: DUBAI
   official_name_english: DUBAI
+  eco_group: 0
 88:
   airmail_group: 6
   air_parcel_group: 5
@@ -889,6 +977,7 @@
   israel_post_name: "דומינקה"
   name_calculated: DOMINICA
   official_name_english: DOMINICA
+  eco_group: 0
 89:
   airmail_group: 4
   air_parcel_group: 5
@@ -899,6 +988,7 @@
   israel_post_name: "דומניקנה"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 90:
   airmail_group: 3
   air_parcel_group: 3
@@ -909,6 +999,7 @@
   israel_post_name: "דנמרק"
   name_calculated: DENMARK
   official_name_english: DENMARK
+  eco_group: 0
 91:
   airmail_group: 3
   air_parcel_group: 4
@@ -919,6 +1010,7 @@
   israel_post_name: "דרום אפריקה"
   name_calculated: SOUTH AFRICA
   official_name_english: SOUTH AFRICA
+  eco_group: 0
 92:
   airmail_group: 6
   air_parcel_group: 5
@@ -929,6 +1021,7 @@
   israel_post_name: "האיטי"
   name_calculated: HAITI
   official_name_english: HAITI
+  eco_group: 0
 93:
   airmail_group: 6
   air_parcel_group: 4
@@ -939,6 +1032,7 @@
   israel_post_name: "הודו"
   name_calculated: INDIA
   official_name_english: INDIA
+  eco_group: 0
 94:
   airmail_group: 1
   air_parcel_group: 1
@@ -949,6 +1043,7 @@
   israel_post_name: "הוואי (איים)"
   name_calculated: HAWAII
   official_name_english: HAWAII
+  eco_group: 0
 95:
   airmail_group: 3
   air_parcel_group: 3
@@ -959,6 +1054,7 @@
   israel_post_name: "הולנד"
   name_calculated: NETHERLANDS
   official_name_english: NETHERLANDS
+  eco_group: 1
 96:
   airmail_group: 6
   air_parcel_group: 4
@@ -969,6 +1065,7 @@
   israel_post_name: "הונג-קונג"
   name_calculated: HONG KONG
   official_name_english: HONG KONG
+  eco_group: 0
 97:
   airmail_group: 4
   air_parcel_group: 3
@@ -979,6 +1076,7 @@
   israel_post_name: "הונגריה"
   name_calculated: HUNGARY
   official_name_english: HUNGARY
+  eco_group: 0
 98:
   airmail_group: 5
   air_parcel_group: 5
@@ -989,6 +1087,7 @@
   israel_post_name: "הונדורס"
   name_calculated: HONDURAS
   official_name_english: HONDURAS
+  eco_group: 0
 99:
   airmail_group: 2
   air_parcel_group: 5
@@ -999,6 +1098,7 @@
   israel_post_name: "הרד"
   name_calculated: HEARD ISLAND AND MCDONALD ISLANDS
   official_name_english: HEARD ISLAND AND MCDONALD ISLANDS
+  eco_group: 0
 100:
   airmail_group: 6
   air_parcel_group: 5
@@ -1009,6 +1109,7 @@
   israel_post_name: "וטיקן"
   name_calculated: VATICAN
   official_name_english: HOLY SEE (VATICAN CITY STATE)
+  eco_group: 0
 101:
   airmail_group: 6
   air_parcel_group: 5
@@ -1019,6 +1120,7 @@
   israel_post_name: "וייטנאם"
   name_calculated: VIETNAM
   official_name_english: VIET NAM
+  eco_group: 0
 102:
   airmail_group: 1
   air_parcel_group: 1
@@ -1029,6 +1131,7 @@
   israel_post_name: "וייק"
   name_calculated: WAKE ISLAND
   official_name_english: WAKE ISLAND
+  eco_group: 0
 103:
   airmail_group: 1
   air_parcel_group: 1
@@ -1039,6 +1142,7 @@
   israel_post_name: וירג'ין של ארה"ב (איים)
   name_calculated: VIRGIN ISLANDS (US)
   official_name_english: VIRGIN ISLANDS, U.S.
+  eco_group: 0
 104:
   airmail_group: 6
   air_parcel_group: 5
@@ -1049,6 +1153,7 @@
   israel_post_name: "וירג'ין של בריטניה"
   name_calculated: BRITISH VIRGIN ISLANDS
   official_name_english: VIRGIN ISLANDS, BRITISH
+  eco_group: 0
 105:
   airmail_group: 6
   air_parcel_group: 5
@@ -1059,6 +1164,7 @@
   israel_post_name: "וליס ופוטונה (איים)"
   name_calculated: WALLIS AND FUTUNA
   official_name_english: WALLIS AND FUTUNA
+  eco_group: 0
 106:
   airmail_group: 6
   air_parcel_group: 5
@@ -1069,6 +1175,7 @@
   israel_post_name: "ונואטו"
   name_calculated: VANUATU
   official_name_english: VANUATU
+  eco_group: 0
 107:
   airmail_group: 5
   air_parcel_group: 5
@@ -1079,6 +1186,7 @@
   israel_post_name: "ונצואלה"
   name_calculated: VENEZUELA
   official_name_english: VENEZUELA
+  eco_group: 0
 108:
   airmail_group: 6
   air_parcel_group: 5
@@ -1089,6 +1197,7 @@
   israel_post_name: "זאיר"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 109:
   airmail_group: 6
   air_parcel_group: 5
@@ -1099,6 +1208,7 @@
   israel_post_name: "זימבבואה"
   name_calculated: ZIMBABWE
   official_name_english: ZIMBABWE
+  eco_group: 0
 110:
   airmail_group: 6
   air_parcel_group: 5
@@ -1109,6 +1219,7 @@
   israel_post_name: "זמביה"
   name_calculated: ZAMBIA
   official_name_english: ZAMBIA
+  eco_group: 0
 111:
   airmail_group: 6
   air_parcel_group: 5
@@ -1119,6 +1230,7 @@
   israel_post_name: "זנזיבר"
   name_calculated: Zanzibar
   official_name_english: Zanzibar
+  eco_group: 0
 112:
   airmail_group: 6
   air_parcel_group: 5
@@ -1129,6 +1241,7 @@
   israel_post_name: "חוף השנהב"
   name_calculated: CÔTE D'IVOIRE
   official_name_english: CÔTE D'IVOIRE
+  eco_group: 0
 113:
   airmail_group: 6
   air_parcel_group: 5
@@ -1139,6 +1252,7 @@
   israel_post_name: "טג'יקיסטן"
   name_calculated: TAJIKISTAN
   official_name_english: TAJIKISTAN
+  eco_group: 0
 114:
   airmail_group: 6
   air_parcel_group: 5
@@ -1149,6 +1263,7 @@
   israel_post_name: "טהיטי"
   name_calculated: TAHITI
   official_name_english: TAHITI
+  eco_group: 0
 115:
   airmail_group: 6
   air_parcel_group: 5
@@ -1159,6 +1274,7 @@
   israel_post_name: "טואמוטו"
   name_calculated: Tuamotus
   official_name_english: Tuamotus
+  eco_group: 0
 116:
   airmail_group: 6
   air_parcel_group: 5
@@ -1169,6 +1285,7 @@
   israel_post_name: "טובגו"
   name_calculated: TOBAGO
   official_name_english: TOBAGO
+  eco_group: 0
 117:
   airmail_group: 6
   air_parcel_group: 5
@@ -1179,6 +1296,7 @@
   israel_post_name: "טובלו"
   name_calculated: TUVALU
   official_name_english: TUVALU
+  eco_group: 0
 118:
   airmail_group: 6
   air_parcel_group: 5
@@ -1189,6 +1307,7 @@
   israel_post_name: "טוגו"
   name_calculated: TOGO
   official_name_english: TOGO
+  eco_group: 0
 119:
   airmail_group: 6
   air_parcel_group: 5
@@ -1199,6 +1318,7 @@
   israel_post_name: "טונגה (איי פרנדלי)"
   name_calculated: TONGA
   official_name_english: TONGA
+  eco_group: 0
 120:
   airmail_group: 2
   air_parcel_group: 5
@@ -1209,6 +1329,7 @@
   israel_post_name: "טוקלאו"
   name_calculated: TOKELAU
   official_name_english: TOKELAU
+  eco_group: 0
 121:
   airmail_group: 6
   air_parcel_group: 5
@@ -1219,6 +1340,7 @@
   israel_post_name: "טורטולה"
   name_calculated: TORTOLA
   official_name_english: TORTOLA
+  eco_group: 0
 122:
   airmail_group: 6
   air_parcel_group: 5
@@ -1229,6 +1351,7 @@
   israel_post_name: "טורס"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 123:
   airmail_group: 6
   air_parcel_group: 5
@@ -1239,6 +1362,7 @@
   israel_post_name: "טורקמניסטן"
   name_calculated: TURKMENISTAN
   official_name_english: TURKMENISTAN
+  eco_group: 0
 124:
   airmail_group: 6
   air_parcel_group: 5
@@ -1249,6 +1373,7 @@
   israel_post_name: "טורקס וקאיקוס (איים)"
   name_calculated: TURKS AND CAICOS ISLANDS
   official_name_english: TURKS AND CAICOS ISLANDS
+  eco_group: 0
 125:
   airmail_group: 6
   air_parcel_group: 4
@@ -1259,6 +1384,7 @@
   israel_post_name: "טיבט"
   name_calculated: TIBET
   official_name_english: TIBET
+  eco_group: 0
 126:
   airmail_group: 6
   air_parcel_group: 5
@@ -1269,6 +1395,7 @@
   israel_post_name: "טייוואן"
   name_calculated: TAIWAN, PROVINCE OF CHINA
   official_name_english: TAIWAN, PROVINCE OF CHINA
+  eco_group: 0
 127:
   airmail_group: 6
   air_parcel_group: 5
@@ -1279,6 +1406,7 @@
   israel_post_name: "טימור המזרחית"
   name_calculated: TIMOR-LESTE
   official_name_english: TIMOR-LESTE
+  eco_group: 0
 128:
   airmail_group: 6
   air_parcel_group: 5
@@ -1289,6 +1417,7 @@
   israel_post_name: "טנזניה"
   name_calculated: TANZANIA, UNITED REPUBLIC OF
   official_name_english: TANZANIA, UNITED REPUBLIC OF
+  eco_group: 0
 129:
   airmail_group: 2
   air_parcel_group: 5
@@ -1299,6 +1428,7 @@
   israel_post_name: "טסמניה"
   name_calculated: TAZMANIA
   official_name_english: TAZMANIA
+  eco_group: 0
 130:
   airmail_group: 7
   air_parcel_group: 0
@@ -1309,6 +1439,7 @@
   israel_post_name: "טריטור. דר. ואנטרקט. של צרפת - אין שירות"
   name_calculated: FRENCH SOUTHERN TERRITORIES
   official_name_english: FRENCH SOUTHERN TERRITORIES
+  eco_group: 0
 131:
   airmail_group: 6
   air_parcel_group: 5
@@ -1319,6 +1450,7 @@
   israel_post_name: "טריטוריה בריטית באוקינוס ההודי"
   name_calculated: BRITISH INDIAN OCEAN TERRITORY
   official_name_english: BRITISH INDIAN OCEAN TERRITORY
+  eco_group: 0
 132:
   airmail_group: 6
   air_parcel_group: 5
@@ -1329,6 +1461,7 @@
   israel_post_name: "טרינידד וטובגו (איים)"
   name_calculated: TRINIDAD AND TOBAGO
   official_name_english: TRINIDAD AND TOBAGO
+  eco_group: 0
 133:
   airmail_group: 6
   air_parcel_group: 5
@@ -1339,6 +1472,7 @@
   israel_post_name: "טריסטן דה קונהה (אי)"
   name_calculated: TRISTAN DA CUNHA
   official_name_english: TRISTAN DA CUNHA
+  eco_group: 0
 134:
   airmail_group: 3
   air_parcel_group: 3
@@ -1349,6 +1483,7 @@
   israel_post_name: "יוון"
   name_calculated: GREECE
   official_name_english: GREECE
+  eco_group: 0
 135:
   airmail_group: 2
   air_parcel_group: 4
@@ -1359,6 +1494,7 @@
   israel_post_name: "יפן"
   name_calculated: JAPAN
   official_name_english: JAPAN
+  eco_group: 0
 136:
   airmail_group: 4
   air_parcel_group: 3
@@ -1369,6 +1505,7 @@
   israel_post_name: "ירדן"
   name_calculated: JORDAN
   official_name_english: JORDAN
+  eco_group: 0
 137:
   airmail_group: 0
   air_parcel_group: 0
@@ -1379,6 +1516,7 @@
   israel_post_name: "כווית - אין שירות"
   name_calculated: KUWAIT
   official_name_english: KUWAIT
+  eco_group: 0
 138:
   airmail_group: 6
   air_parcel_group: 5
@@ -1389,6 +1527,7 @@
   israel_post_name: "כף ורדה"
   name_calculated: CAPE VERDE
   official_name_english: CAPE VERDE
+  eco_group: 0
 139:
   airmail_group: 3
   air_parcel_group: 3
@@ -1399,6 +1538,7 @@
   israel_post_name: "כרתים"
   name_calculated: CRETE
   official_name_english: CRETE
+  eco_group: 0
 140:
   airmail_group: 6
   air_parcel_group: 5
@@ -1409,6 +1549,7 @@
   israel_post_name: "לאו (לאוס)"
   name_calculated: LAOS
   official_name_english: LAO PEOPLE'S DEMOCRATIC REPUBLIC
+  eco_group: 0
 141:
   airmail_group: 0
   air_parcel_group: 0
@@ -1419,6 +1560,7 @@
   israel_post_name: "לבנון - אין שירות"
   name_calculated: LEBANON
   official_name_english: LEBANON
+  eco_group: 0
 142:
   airmail_group: 6
   air_parcel_group: 5
@@ -1429,6 +1571,7 @@
   israel_post_name: "לואיוטה"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 143:
   airmail_group: 0
   air_parcel_group: 0
@@ -1439,6 +1582,7 @@
   israel_post_name: "לוב - אין שירות"
   name_calculated: LIBYAN ARAB JAMAHIRIYA
   official_name_english: LIBYAN ARAB JAMAHIRIYA
+  eco_group: 0
 144:
   airmail_group: 3
   air_parcel_group: 5
@@ -1449,6 +1593,7 @@
   israel_post_name: "לוקסמבורג"
   name_calculated: LUXEMBOURG
   official_name_english: LUXEMBOURG
+  eco_group: 0
 145:
   airmail_group: 2
   air_parcel_group: 5
@@ -1459,6 +1604,7 @@
   israel_post_name: "לורד האו (איים)"
   name_calculated: LORD HOWE ISLANDS
   official_name_english: LORD HOWE ISLANDS
+  eco_group: 0
 146:
   airmail_group: 4
   air_parcel_group: 2
@@ -1469,6 +1615,7 @@
   israel_post_name: "לטביה"
   name_calculated: LATVIA
   official_name_english: LATVIA
+  eco_group: 0
 147:
   airmail_group: 6
   air_parcel_group: 5
@@ -1479,6 +1626,7 @@
   israel_post_name: "ליבריה"
   name_calculated: LIBERIA
   official_name_english: LIBERIA
+  eco_group: 0
 148:
   airmail_group: 4
   air_parcel_group: 2
@@ -1489,6 +1637,7 @@
   israel_post_name: "ליטא"
   name_calculated: LITHUANIA
   official_name_english: LITHUANIA
+  eco_group: 0
 149:
   airmail_group: 3
   air_parcel_group: 3
@@ -1499,6 +1648,7 @@
   israel_post_name: "ליכטינשטיין"
   name_calculated: LIECHTENSTEIN
   official_name_english: LIECHTENSTEIN
+  eco_group: 0
 150:
   airmail_group: 6
   air_parcel_group: 5
@@ -1509,6 +1659,7 @@
   israel_post_name: "לסוטו"
   name_calculated: LESOTHO
   official_name_english: LESOTHO
+  eco_group: 0
 151:
   airmail_group: 6
   air_parcel_group: 4
@@ -1519,6 +1670,7 @@
   israel_post_name: "לקדיב"
   name_calculated: LAKDIVA
   official_name_english: LAKDIVA
+  eco_group: 0
 152:
   airmail_group: 6
   air_parcel_group: 5
@@ -1529,6 +1681,7 @@
   israel_post_name: "מאוריציוס"
   name_calculated: MAURITIUS
   official_name_english: MAURITIUS
+  eco_group: 0
 153:
   airmail_group: 6
   air_parcel_group: 5
@@ -1539,6 +1692,7 @@
   israel_post_name: "מאוריתניה"
   name_calculated: MAURITANIA
   official_name_english: MAURITANIA
+  eco_group: 0
 154:
   airmail_group: 3
   air_parcel_group: 3
@@ -1549,6 +1703,7 @@
   israel_post_name: "מאיוט"
   name_calculated: MAYOTTE
   official_name_english: MAYOTTE
+  eco_group: 0
 155:
   airmail_group: 6
   air_parcel_group: 5
@@ -1559,6 +1714,7 @@
   israel_post_name: "מאלי"
   name_calculated: MALI
   official_name_english: MALI
+  eco_group: 0
 156:
   airmail_group: 6
   air_parcel_group: 5
@@ -1569,6 +1725,7 @@
   israel_post_name: "מדגסקר"
   name_calculated: MADAGASCAR
   official_name_english: MADAGASCAR
+  eco_group: 0
 157:
   airmail_group: 3
   air_parcel_group: 2
@@ -1579,6 +1736,7 @@
   israel_post_name: "מדיירה"
   name_calculated: MADEIRA
   official_name_english: MADEIRA
+  eco_group: 0
 158:
   airmail_group: 6
   air_parcel_group: 5
@@ -1589,6 +1747,7 @@
   israel_post_name: "מוזמביק"
   name_calculated: MOZAMBIQUE
   official_name_english: MOZAMBIQUE
+  eco_group: 0
 159:
   airmail_group: 4
   air_parcel_group: 2
@@ -1599,6 +1758,7 @@
   israel_post_name: "מולדובה"
   name_calculated: MOLDOVA
   official_name_english: MOLDOVA, REPUBLIC OF
+  eco_group: 0
 160:
   airmail_group: 6
   air_parcel_group: 5
@@ -1609,6 +1769,7 @@
   israel_post_name: "מונגוליה"
   name_calculated: MONGOLIA
   official_name_english: MONGOLIA
+  eco_group: 0
 161:
   airmail_group: 6
   air_parcel_group: 5
@@ -1619,6 +1780,7 @@
   israel_post_name: "מונטנגרו"
   name_calculated: MONTENEGRO
   official_name_english: MONTENEGRO
+  eco_group: 0
 162:
   airmail_group: 6
   air_parcel_group: 5
@@ -1629,6 +1791,7 @@
   israel_post_name: "מונסרט (אי)"
   name_calculated: MONTSERRAT
   official_name_english: MONTSERRAT
+  eco_group: 0
 163:
   airmail_group: 3
   air_parcel_group: 3
@@ -1639,6 +1802,7 @@
   israel_post_name: "מונקו"
   name_calculated: MONACO
   official_name_english: MONACO
+  eco_group: 0
 164:
   airmail_group: 6
   air_parcel_group: 5
@@ -1649,6 +1813,7 @@
   israel_post_name: "מטסו"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 165:
   airmail_group: 6
   air_parcel_group: 5
@@ -1659,6 +1824,7 @@
   israel_post_name: "מיאנמר (בורמה)"
   name_calculated: MYANMAR (BURMA)
   official_name_english: MYANMAR
+  eco_group: 0
 166:
   airmail_group: 1
   air_parcel_group: 1
@@ -1669,6 +1835,7 @@
   israel_post_name: "מידווי (איים)"
   name_calculated: MIDWAY ISLANDS
   official_name_english: MIDWAY ISLANDS
+  eco_group: 0
 167:
   airmail_group: 1
   air_parcel_group: 1
@@ -1679,6 +1846,7 @@
   israel_post_name: "מיקרונזיה"
   name_calculated: FEDERATED STATES OF MICRONESIA
   official_name_english: MICRONESIA, FEDERATED STATES OF
+  eco_group: 0
 168:
   airmail_group: 6
   air_parcel_group: 5
@@ -1689,6 +1857,7 @@
   israel_post_name: "מלאווי"
   name_calculated: MALAWI
   official_name_english: MALAWI
+  eco_group: 0
 169:
   airmail_group: 6
   air_parcel_group: 5
@@ -1699,6 +1868,7 @@
   israel_post_name: "מלדיבים"
   name_calculated: MALDIVES
   official_name_english: MALDIVES
+  eco_group: 0
 170:
   airmail_group: 6
   air_parcel_group: 5
@@ -1709,6 +1879,7 @@
   israel_post_name: "מלזיה"
   name_calculated: MALAYSIA
   official_name_english: MALAYSIA
+  eco_group: 0
 171:
   airmail_group: 3
   air_parcel_group: 5
@@ -1719,6 +1890,7 @@
   israel_post_name: "מלטה"
   name_calculated: MALTA
   official_name_english: MALTA
+  eco_group: 0
 172:
   airmail_group: 3
   air_parcel_group: 2
@@ -1729,6 +1901,7 @@
   israel_post_name: "מן (אי)"
   name_calculated: ISLE OF MAN
   official_name_english: ISLE OF MAN
+  eco_group: 0
 173:
   airmail_group: 6
   air_parcel_group: 4
@@ -1739,6 +1912,7 @@
   israel_post_name: "מצרים"
   name_calculated: EGYPT
   official_name_english: EGYPT
+  eco_group: 0
 174:
   airmail_group: 6
   air_parcel_group: 5
@@ -1749,6 +1923,7 @@
   israel_post_name: "מקאו"
   name_calculated: MACAO
   official_name_english: MACAO
+  eco_group: 0
 175:
   airmail_group: 4
   air_parcel_group: 5
@@ -1759,6 +1934,7 @@
   israel_post_name: "מקדוניה"
   name_calculated: MACEDONIA
   official_name_english: MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF
+  eco_group: 0
 176:
   airmail_group: 2
   air_parcel_group: 5
@@ -1769,6 +1945,7 @@
   israel_post_name: "מקדונלד"
   name_calculated: MCDONALD ISLANDS
   official_name_english: MCDONALD ISLANDS
+  eco_group: 0
 177:
   airmail_group: 5
   air_parcel_group: 5
@@ -1779,6 +1956,7 @@
   israel_post_name: "מקסיקו"
   name_calculated: MEXICO
   official_name_english: MEXICO
+  eco_group: 0
 178:
   airmail_group: 6
   air_parcel_group: 5
@@ -1789,6 +1967,7 @@
   israel_post_name: "מרוקו"
   name_calculated: MOROCCO
   official_name_english: MOROCCO
+  eco_group: 0
 179:
   airmail_group: 3
   air_parcel_group: 3
@@ -1799,6 +1978,7 @@
   israel_post_name: "מרטיניק (איים)"
   name_calculated: MARTINIQUE
   official_name_english: MARTINIQUE
+  eco_group: 0
 180:
   airmail_group: 1
   air_parcel_group: 1
@@ -1809,6 +1989,7 @@
   israel_post_name: "מריאנים (איים)"
   name_calculated: NORTHERN MARIANA ISLANDS
   official_name_english: NORTHERN MARIANA ISLANDS
+  eco_group: 0
 181:
   airmail_group: 6
   air_parcel_group: 5
@@ -1819,6 +2000,7 @@
   israel_post_name: "מרכז אפריקה (רפ')"
   name_calculated: CENTRAL AFRICAN REPUBLIC
   official_name_english: CENTRAL AFRICAN REPUBLIC
+  eco_group: 0
 182:
   airmail_group: 6
   air_parcel_group: 5
@@ -1829,6 +2011,7 @@
   israel_post_name: "מרקיז (איים)"
   name_calculated: Marquesas Islands
   official_name_english: Marquesas Islands
+  eco_group: 0
 183:
   airmail_group: 1
   air_parcel_group: 1
@@ -1839,6 +2022,7 @@
   israel_post_name: "מרשל (איים)"
   name_calculated: MARSHALL ISLANDS
   official_name_english: MARSHALL ISLANDS
+  eco_group: 0
 184:
   airmail_group: 6
   air_parcel_group: 5
@@ -1849,6 +2033,7 @@
   israel_post_name: "נאורו"
   name_calculated: NAURU
   official_name_english: NAURU
+  eco_group: 0
 185:
   airmail_group: 6
   air_parcel_group: 5
@@ -1859,6 +2044,7 @@
   israel_post_name: "נוויס"
   name_calculated: NEVIS
   official_name_english: NEVIS
+  eco_group: 0
 186:
   airmail_group: 3
   air_parcel_group: 2
@@ -1869,6 +2055,7 @@
   israel_post_name: "נורבגיה"
   name_calculated: NORWAY
   official_name_english: NORWAY
+  eco_group: 0
 187:
   airmail_group: 6
   air_parcel_group: 5
@@ -1879,6 +2066,7 @@
   israel_post_name: "נורפולק"
   name_calculated: NORFOLK ISLAND
   official_name_english: NORFOLK ISLAND
+  eco_group: 0
 188:
   airmail_group: 6
   air_parcel_group: 5
@@ -1889,6 +2077,7 @@
   israel_post_name: "ניג'ר"
   name_calculated: NIGER
   official_name_english: NIGER
+  eco_group: 0
 189:
   airmail_group: 6
   air_parcel_group: 4
@@ -1899,6 +2088,7 @@
   israel_post_name: "ניגריה"
   name_calculated: NIGERIA
   official_name_english: NIGERIA
+  eco_group: 0
 190:
   airmail_group: 2
   air_parcel_group: 5
@@ -1909,6 +2099,7 @@
   israel_post_name: "ניו זילנד"
   name_calculated: NEW ZEALAND
   official_name_english: NEW ZEALAND
+  eco_group: 0
 191:
   airmail_group: 2
   air_parcel_group: 1
@@ -1919,6 +2110,7 @@
   israel_post_name: "ניו פאונדלנדנ"
   name_calculated: NEWFOUNDLAND
   official_name_english: NEWFOUNDLAND
+  eco_group: 0
 192:
   airmail_group: 2
   air_parcel_group: 5
@@ -1929,6 +2121,7 @@
   israel_post_name: "נייו"
   name_calculated: NIUE
   official_name_english: NIUE
+  eco_group: 0
 193:
   airmail_group: 6
   air_parcel_group: 4
@@ -1939,6 +2132,7 @@
   israel_post_name: "ניקובר"
   name_calculated: NICOBAR
   official_name_english: NICOBAR
+  eco_group: 0
 194:
   airmail_group: 6
   air_parcel_group: 5
@@ -1949,6 +2143,7 @@
   israel_post_name: "ניקרגואה"
   name_calculated: NICARAGUA
   official_name_english: NICARAGUA
+  eco_group: 0
 195:
   airmail_group: 6
   air_parcel_group: 5
@@ -1959,6 +2154,7 @@
   israel_post_name: "נמיביה"
   name_calculated: NAMIBIA
   official_name_english: NAMIBIA
+  eco_group: 0
 196:
   airmail_group: 0
   air_parcel_group: 0
@@ -1969,6 +2165,7 @@
   israel_post_name: "נסיכויות ערביות מאוח - אין שירות"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 197:
   airmail_group: 6
   air_parcel_group: 5
@@ -1979,6 +2176,7 @@
   israel_post_name: "נפאל"
   name_calculated: NEPAL
   official_name_english: NEPAL
+  eco_group: 0
 198:
   airmail_group: 6
   air_parcel_group: 5
@@ -1989,6 +2187,7 @@
   israel_post_name: "סבא"
   name_calculated: SABA
   official_name_english: SABA
+  eco_group: 0
 199:
   airmail_group: 6
   air_parcel_group: 5
@@ -1999,6 +2198,7 @@
   israel_post_name: "סו לה וונט"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 200:
   airmail_group: 0
   air_parcel_group: 0
@@ -2009,6 +2209,7 @@
   israel_post_name: "סודן - אין שירות"
   name_calculated: SUDAN
   official_name_english: SUDAN
+  eco_group: 0
 201:
   airmail_group: 6
   air_parcel_group: 5
@@ -2019,6 +2220,7 @@
   israel_post_name: "סוואזילנד"
   name_calculated: SWAZILAND
   official_name_english: SWAZILAND
+  eco_group: 0
 202:
   airmail_group: 6
   air_parcel_group: 5
@@ -2029,6 +2231,7 @@
   israel_post_name: "סומליה - אין שירות"
   name_calculated: SOMALIA
   official_name_english: SOMALIA
+  eco_group: 0
 203:
   airmail_group: 6
   air_parcel_group: 5
@@ -2039,6 +2242,7 @@
   israel_post_name: "סוסייטה"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 204:
   airmail_group: 0
   air_parcel_group: 0
@@ -2049,6 +2253,7 @@
   israel_post_name: "סוריה - אין שירות"
   name_calculated: SYRIA
   official_name_english: SYRIAN ARAB REPUBLIC
+  eco_group: 0
 205:
   airmail_group: 6
   air_parcel_group: 5
@@ -2059,6 +2264,7 @@
   israel_post_name: "סורינם"
   name_calculated: SURINAME
   official_name_english: SURINAME
+  eco_group: 0
 206:
   airmail_group: 6
   air_parcel_group: 5
@@ -2069,6 +2275,7 @@
   israel_post_name: "סיירה לאונה"
   name_calculated: SIERRA LEONE
   official_name_english: SIERRA LEONE
+  eco_group: 0
 207:
   airmail_group: 6
   air_parcel_group: 5
@@ -2079,6 +2286,7 @@
   israel_post_name: "סיישל (איים)"
   name_calculated: SEYCHELLES
   official_name_english: SEYCHELLES
+  eco_group: 0
 208:
   airmail_group: 6
   air_parcel_group: 4
@@ -2089,6 +2297,7 @@
   israel_post_name: "סין רפובליקה עממית"
   name_calculated: CHINA
   official_name_english: CHINA
+  eco_group: 0
 209:
   airmail_group: 3
   air_parcel_group: 4
@@ -2099,6 +2308,7 @@
   israel_post_name: "סינגפור"
   name_calculated: SINGAPORE
   official_name_english: SINGAPORE
+  eco_group: 0
 210:
   airmail_group: 6
   air_parcel_group: 4
@@ -2109,6 +2319,7 @@
   israel_post_name: "סיקים"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 211:
   airmail_group: 4
   air_parcel_group: 3
@@ -2119,6 +2330,7 @@
   israel_post_name: "סלובניה"
   name_calculated: SLOVENIA
   official_name_english: SLOVENIA
+  eco_group: 0
 212:
   airmail_group: 4
   air_parcel_group: 5
@@ -2129,6 +2341,7 @@
   israel_post_name: "סלובקיה"
   name_calculated: SLOVAKIA
   official_name_english: SLOVAKIA
+  eco_group: 0
 213:
   airmail_group: 6
   air_parcel_group: 5
@@ -2139,6 +2352,7 @@
   israel_post_name: "סלומון"
   name_calculated: SOLOMON ISLANDS
   official_name_english: SOLOMON ISLANDS
+  eco_group: 0
 214:
   airmail_group: 1
   air_parcel_group: 1
@@ -2149,6 +2363,7 @@
   israel_post_name: סמואה איים של ארה"ב
   name_calculated: AMERICAN SAMOA
   official_name_english: AMERICAN SAMOA
+  eco_group: 0
 215:
   airmail_group: 6
   air_parcel_group: 5
@@ -2159,6 +2374,7 @@
   israel_post_name: "סמואה מערבית של ניו זילנד"
   name_calculated: SAMOA
   official_name_english: SAMOA
+  eco_group: 0
 216:
   airmail_group: 3
   air_parcel_group: 3
@@ -2169,6 +2385,7 @@
   israel_post_name: "סן מרינו"
   name_calculated: SAN MARINO
   official_name_english: SAN MARINO
+  eco_group: 0
 217:
   airmail_group: 6
   air_parcel_group: 5
@@ -2179,6 +2396,7 @@
   israel_post_name: "סנגל"
   name_calculated: SENEGAL
   official_name_english: SENEGAL
+  eco_group: 0
 218:
   airmail_group: 6
   air_parcel_group: 5
@@ -2189,6 +2407,7 @@
   israel_post_name: "סנט אוסטש"
   name_calculated: Sint Eustatius
   official_name_english: Sint Eustatius
+  eco_group: 0
 219:
   airmail_group: 6
   air_parcel_group: 5
@@ -2199,6 +2418,7 @@
   israel_post_name: "סנט וינצנט וגרנדין"
   name_calculated: SAINT VINCENT AND THE GRENADINES
   official_name_english: SAINT VINCENT AND THE GRENADINES
+  eco_group: 0
 220:
   airmail_group: 6
   air_parcel_group: 5
@@ -2209,6 +2429,7 @@
   israel_post_name: "סנט כריסטוף ונוויס"
   name_calculated: SAINT KITTS AND NEVIS
   official_name_english: SAINT KITTS AND NEVIS
+  eco_group: 0
 221:
   airmail_group: 6
   air_parcel_group: 5
@@ -2219,6 +2440,7 @@
   israel_post_name: "סנט מרטין"
   name_calculated: SAINT MARTIN
   official_name_english: SAINT MARTIN
+  eco_group: 0
 222:
   airmail_group: 3
   air_parcel_group: 3
@@ -2229,6 +2451,7 @@
   israel_post_name: "סנט פייר ומיקלון"
   name_calculated: SAINT PIERRE AND MIQUELON
   official_name_english: SAINT PIERRE AND MIQUELON
+  eco_group: 0
 223:
   airmail_group: 6
   air_parcel_group: 5
@@ -2239,6 +2462,7 @@
   israel_post_name: "סנט קיטס"
   name_calculated: SAINT KITTS
   official_name_english: SAINT KITTS
+  eco_group: 0
 224:
   airmail_group: 6
   air_parcel_group: 5
@@ -2249,6 +2473,7 @@
   israel_post_name: "סנט תומה ופרינסיפה"
   name_calculated: SAO TOME AND PRINCIPE
   official_name_english: SAO TOME AND PRINCIPE
+  eco_group: 0
 225:
   airmail_group: 6
   air_parcel_group: 5
@@ -2259,6 +2484,7 @@
   israel_post_name: "סנטה הלנה"
   name_calculated: SAINT HELENA
   official_name_english: SAINT HELENA
+  eco_group: 0
 226:
   airmail_group: 6
   air_parcel_group: 5
@@ -2269,6 +2495,7 @@
   israel_post_name: "סנטה לוצ'יה"
   name_calculated: SAINT LUCIA
   official_name_english: SAINT LUCIA
+  eco_group: 0
 227:
   airmail_group: 0
   air_parcel_group: 0
@@ -2279,6 +2506,7 @@
   israel_post_name: "סעודיה - אין שירות"
   name_calculated: SAUDI ARABIA
   official_name_english: SAUDI ARABIA
+  eco_group: 0
 228:
   airmail_group: 3
   air_parcel_group: 3
@@ -2289,6 +2517,7 @@
   israel_post_name: "ספרד"
   name_calculated: SPAIN
   official_name_english: SPAIN
+  eco_group: 1
 229:
   airmail_group: 4
   air_parcel_group: 5
@@ -2299,6 +2528,7 @@
   israel_post_name: "סרביה"
   name_calculated: SERBIA
   official_name_english: SERBIA
+  eco_group: 0
 230:
   airmail_group: 6
   air_parcel_group: 5
@@ -2309,6 +2539,7 @@
   israel_post_name: "סרוואק"
   name_calculated: Sarawak
   official_name_english: Sarawak
+  eco_group: 0
 231:
   airmail_group: 6
   air_parcel_group: 5
@@ -2319,6 +2550,7 @@
   israel_post_name: "סרי לנקה"
   name_calculated: SRI LANKA
   official_name_english: SRI LANKA
+  eco_group: 0
 232:
   airmail_group: 0
   air_parcel_group: 0
@@ -2329,6 +2561,7 @@
   israel_post_name: "עג'מן - אין שירות"
   name_calculated: Ajman
   official_name_english: Ajman
+  eco_group: 0
 233:
   airmail_group: 6
   air_parcel_group: 5
@@ -2339,6 +2572,7 @@
   israel_post_name: "עומאן"
   name_calculated: OMAN
   official_name_english: OMAN
+  eco_group: 0
 234:
   airmail_group: 0
   air_parcel_group: 0
@@ -2349,6 +2583,7 @@
   israel_post_name: "עיראק - אין שירות"
   name_calculated: IRAQ
   official_name_english: IRAQ
+  eco_group: 0
 235:
   airmail_group: 3
   air_parcel_group: 3
@@ -2359,6 +2594,7 @@
   israel_post_name: "פארו (איים)"
   name_calculated: FAROE ISLANDS
   official_name_english: FAROE ISLANDS
+  eco_group: 0
 236:
   airmail_group: 0
   air_parcel_group: 0
@@ -2369,6 +2605,7 @@
   israel_post_name: "פוג'יירה - אין שירות"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 237:
   airmail_group: 4
   air_parcel_group: 3
@@ -2379,6 +2616,7 @@
   israel_post_name: "פולין"
   name_calculated: POLAND
   official_name_english: POLAND
+  eco_group: 0
 238:
   airmail_group: 6
   air_parcel_group: 5
@@ -2389,6 +2627,7 @@
   israel_post_name: "פולינזיה הצרפתית"
   name_calculated: FRENCH POLYNESIA
   official_name_english: FRENCH POLYNESIA
+  eco_group: 0
 239:
   airmail_group: 6
   air_parcel_group: 5
@@ -2399,6 +2638,7 @@
   israel_post_name: "פוקלנד (איים)"
   name_calculated: FALKLAND ISLANDS (MALVINAS)
   official_name_english: FALKLAND ISLANDS (MALVINAS)
+  eco_group: 0
 240:
   airmail_group: 1
   air_parcel_group: 1
@@ -2409,6 +2649,7 @@
   israel_post_name: "פורטו ריקו"
   name_calculated: PUERTO RICO
   official_name_english: PUERTO RICO
+  eco_group: 0
 241:
   airmail_group: 3
   air_parcel_group: 2
@@ -2419,6 +2660,7 @@
   israel_post_name: "פורטוגל"
   name_calculated: PORTUGAL
   official_name_english: PORTUGAL
+  eco_group: 0
 242:
   airmail_group: 6
   air_parcel_group: 5
@@ -2429,6 +2671,7 @@
   israel_post_name: "פיג'י (איים)"
   name_calculated: FIJI
   official_name_english: FIJI
+  eco_group: 0
 243:
   airmail_group: 6
   air_parcel_group: 5
@@ -2439,6 +2682,7 @@
   israel_post_name: "פיטקרן (איים)"
   name_calculated: PITCAIRN
   official_name_english: PITCAIRN
+  eco_group: 0
 244:
   airmail_group: 6
   air_parcel_group: 4
@@ -2449,6 +2693,7 @@
   israel_post_name: "פיליפינים"
   name_calculated: PHILIPPINES
   official_name_english: PHILIPPINES
+  eco_group: 0
 245:
   airmail_group: 3
   air_parcel_group: 2
@@ -2459,6 +2704,7 @@
   israel_post_name: "פינלנד"
   name_calculated: FINLAND
   official_name_english: FINLAND
+  eco_group: 0
 246:
   airmail_group: 1
   air_parcel_group: 1
@@ -2469,6 +2715,7 @@
   israel_post_name: "פלאו"
   name_calculated: PALAU
   official_name_english: PALAU
+  eco_group: 0
 247:
   airmail_group: 6
   air_parcel_group: 5
@@ -2479,6 +2726,7 @@
   israel_post_name: "פמבה"
   name_calculated: PEMBA
   official_name_english: PEMBA
+  eco_group: 0
 248:
   airmail_group: 5
   air_parcel_group: 5
@@ -2489,6 +2737,7 @@
   israel_post_name: "פנמה"
   name_calculated: PANAMA
   official_name_english: PANAMA
+  eco_group: 0
 249:
   airmail_group: 6
   air_parcel_group: 5
@@ -2499,6 +2748,7 @@
   israel_post_name: "פפואה - גיניאה החדשה"
   name_calculated: PAPUA NEW GUINEA
   official_name_english: PAPUA NEW GUINEA
+  eco_group: 0
 250:
   airmail_group: 0
   air_parcel_group: 0
@@ -2509,6 +2759,7 @@
   israel_post_name: "פקיסטן - אין שירות"
   name_calculated: PAKISTAN
   official_name_english: PAKISTAN
+  eco_group: 0
 251:
   airmail_group: 5
   air_parcel_group: 5
@@ -2519,6 +2770,7 @@
   israel_post_name: "פרגואי"
   name_calculated: PARAGUAY
   official_name_english: PARAGUAY
+  eco_group: 0
 252:
   airmail_group: 5
   air_parcel_group: 5
@@ -2529,6 +2781,7 @@
   israel_post_name: "פרו"
   name_calculated: PERU
   official_name_english: PERU
+  eco_group: 0
 253:
   airmail_group: 0
   air_parcel_group: 0
@@ -2539,6 +2792,7 @@
   israel_post_name: "פרים - אין שירות"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 254:
   airmail_group: 6
   air_parcel_group: 5
@@ -2549,6 +2803,7 @@
   israel_post_name: "פרינסיפה"
   name_calculated: PRINCIPE
   official_name_english: PRINCIPE
+  eco_group: 0
 255:
   airmail_group: 6
   air_parcel_group: 5
@@ -2559,6 +2814,7 @@
   israel_post_name: "פרנדלי (אי)"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 256:
   airmail_group: 6
   air_parcel_group: 5
@@ -2569,6 +2825,7 @@
   israel_post_name: "פרננדו פו"
   name_calculated: Fernando Pó (Bioko)
   official_name_english: Fernando Pó (Bioko)
+  eco_group: 0
 257:
   airmail_group: 6
   air_parcel_group: 5
@@ -2579,6 +2836,7 @@
   israel_post_name: "צ'אד"
   name_calculated: CHAD
   official_name_english: CHAD
+  eco_group: 0
 258:
   airmail_group: 6
   air_parcel_group: 5
@@ -2589,6 +2847,7 @@
   israel_post_name: "צ'גוס"
   name_calculated: CHAGOS
   official_name_english: CHAGOS
+  eco_group: 0
 259:
   airmail_group: 5
   air_parcel_group: 5
@@ -2599,6 +2858,7 @@
   israel_post_name: "צ'ילה"
   name_calculated: CHILE
   official_name_english: CHILE
+  eco_group: 0
 260:
   airmail_group: 4
   air_parcel_group: 3
@@ -2609,6 +2869,7 @@
   israel_post_name: "צ'כיה"
   name_calculated: CZECH REPUBLIC
   official_name_english: CZECH REPUBLIC
+  eco_group: 0
 261:
   airmail_group: 3
   air_parcel_group: 3
@@ -2619,6 +2880,7 @@
   israel_post_name: "צרפת"
   name_calculated: FRANCE
   official_name_english: FRANCE
+  eco_group: 1
 262:
   airmail_group: 6
   air_parcel_group: 5
@@ -2629,6 +2891,7 @@
   israel_post_name: "קאיקוס (איים)"
   name_calculated: CAICOS ISLANDS
   official_name_english: CAICOS ISLANDS
+  eco_group: 0
 263:
   airmail_group: 5
   air_parcel_group: 5
@@ -2639,6 +2902,7 @@
   israel_post_name: "קובה"
   name_calculated: CUBA
   official_name_english: CUBA
+  eco_group: 0
 264:
   airmail_group: 5
   air_parcel_group: 5
@@ -2649,6 +2913,7 @@
   israel_post_name: "קולומביה"
   name_calculated: COLOMBIA
   official_name_english: COLOMBIA
+  eco_group: 0
 265:
   airmail_group: 6
   air_parcel_group: 5
@@ -2659,6 +2924,7 @@
   israel_post_name: "קומורים (איים)"
   name_calculated: COMOROS
   official_name_english: COMOROS
+  eco_group: 0
 266:
   airmail_group: 6
   air_parcel_group: 5
@@ -2669,6 +2935,7 @@
   israel_post_name: "קונגו (רפ')"
   name_calculated: CONGO
   official_name_english: CONGO
+  eco_group: 0
 267:
   airmail_group: 6
   air_parcel_group: 5
@@ -2679,6 +2946,7 @@
   israel_post_name: "קונגו רפ' דמוקרטית (זאיר)"
   name_calculated: DEMOCRATIC REPUBLIC OF CONGO
   official_name_english: CONGO, THE DEMOCRATIC REPUBLIC OF THE
+  eco_group: 0
 268:
   airmail_group: 6
   air_parcel_group: 5
@@ -2689,6 +2957,7 @@
   israel_post_name: "קוסובו"
   name_calculated: KOSOVO
   official_name_english: KOSOVO
+  eco_group: 0
 269:
   airmail_group: 5
   air_parcel_group: 5
@@ -2699,6 +2968,7 @@
   israel_post_name: "קוסטה ריקה"
   name_calculated: COSTA RICA
   official_name_english: COSTA RICA
+  eco_group: 0
 270:
   airmail_group: 6
   air_parcel_group: 5
@@ -2709,6 +2979,7 @@
   israel_post_name: "קוק (איים)"
   name_calculated: COOK ISLANDS
   official_name_english: COOK ISLANDS
+  eco_group: 0
 271:
   airmail_group: 6
   air_parcel_group: 5
@@ -2719,6 +2990,7 @@
   israel_post_name: "קוקוס (או קילינג)"
   name_calculated: COCOS (KEELING) ISLANDS
   official_name_english: COCOS (KEELING) ISLANDS
+  eco_group: 0
 272:
   airmail_group: 6
   air_parcel_group: 4
@@ -2729,6 +3001,7 @@
   israel_post_name: "קוריאה הדרומית (רפ')"
   name_calculated: SOUTH KOREA
   official_name_english: KOREA, REPUBLIC OF
+  eco_group: 0
 273:
   airmail_group: 6
   air_parcel_group: 5
@@ -2739,6 +3012,7 @@
   israel_post_name: "קוריאה הצפונית (רפ' ד. עממית)"
   name_calculated: NORTH KOREA
   official_name_english: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+  eco_group: 0
 274:
   airmail_group: 6
   air_parcel_group: 5
@@ -2749,6 +3023,7 @@
   israel_post_name: "קורסאו"
   name_calculated: Curaçao
   official_name_english: Curaçao
+  eco_group: 0
 275:
   airmail_group: 3
   air_parcel_group: 3
@@ -2759,6 +3034,7 @@
   israel_post_name: "קורסיקה"
   name_calculated: CORSICA
   official_name_english: CORSICA
+  eco_group: 0
 276:
   airmail_group: 4
   air_parcel_group: 2
@@ -2769,6 +3045,7 @@
   israel_post_name: "קזחסטן"
   name_calculated: KAZAKHSTAN
   official_name_english: KAZAKHSTAN
+  eco_group: 0
 277:
   airmail_group: 0
   air_parcel_group: 0
@@ -2779,6 +3056,7 @@
   israel_post_name: "קטאר - אין שירות"
   name_calculated: QATAR
   official_name_english: QATAR
+  eco_group: 0
 278:
   airmail_group: 6
   air_parcel_group: 5
@@ -2789,6 +3067,7 @@
   israel_post_name: "קיימן (איים)"
   name_calculated: CAYMAN ISLANDS
   official_name_english: CAYMAN ISLANDS
+  eco_group: 0
 279:
   airmail_group: 4
   air_parcel_group: 5
@@ -2799,6 +3078,7 @@
   israel_post_name: "קירגיסטן"
   name_calculated: KYRGYZSTAN
   official_name_english: KYRGYZSTAN
+  eco_group: 0
 280:
   airmail_group: 6
   air_parcel_group: 5
@@ -2809,6 +3089,7 @@
   israel_post_name: "קיריבטי"
   name_calculated: KIRIBATI
   official_name_english: KIRIBATI
+  eco_group: 0
 281:
   airmail_group: 6
   air_parcel_group: 5
@@ -2819,6 +3100,7 @@
   israel_post_name: "קלדוניה החדשה"
   name_calculated: NEW CALEDONIA
   official_name_english: NEW CALEDONIA
+  eco_group: 0
 282:
   airmail_group: 6
   air_parcel_group: 5
@@ -2829,6 +3111,7 @@
   israel_post_name: "קמבודיה"
   name_calculated: CAMBODIA
   official_name_english: CAMBODIA
+  eco_group: 0
 283:
   airmail_group: 6
   air_parcel_group: 5
@@ -2839,6 +3122,7 @@
   israel_post_name: "קמוי"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 284:
   airmail_group: 6
   air_parcel_group: 5
@@ -2849,6 +3133,7 @@
   israel_post_name: "קמרון"
   name_calculated: CAMEROON
   official_name_english: CAMEROON
+  eco_group: 0
 285:
   airmail_group: 2
   air_parcel_group: 1
@@ -2859,6 +3144,7 @@
   israel_post_name: "קנדה"
   name_calculated: CANADA
   official_name_english: CANADA
+  eco_group: 1
 286:
   airmail_group: 6
   air_parcel_group: 4
@@ -2869,6 +3155,7 @@
   israel_post_name: "קניה"
   name_calculated: KENYA
   official_name_english: KENYA
+  eco_group: 0
 287:
   airmail_group: 3
   air_parcel_group: 3
@@ -2879,6 +3166,7 @@
   israel_post_name: "קנרים (איים)"
   name_calculated: CANARY ISLANDS
   official_name_english: CANARY ISLANDS
+  eco_group: 0
 288:
   airmail_group: 4
   air_parcel_group: 5
@@ -2889,6 +3177,7 @@
   israel_post_name: "קפריסין"
   name_calculated: CYPRUS
   official_name_english: CYPRUS
+  eco_group: 0
 289:
   airmail_group: 4
   air_parcel_group: 3
@@ -2899,6 +3188,7 @@
   israel_post_name: "קרואטיה"
   name_calculated: CROATIA
   official_name_english: CROATIA
+  eco_group: 0
 290:
   airmail_group: 1
   air_parcel_group: 1
@@ -2909,6 +3199,7 @@
   israel_post_name: "קרולינים (איים)"
   name_calculated: CAROLINE ISLANDS
   official_name_english: CAROLINE ISLANDS
+  eco_group: 0
 291:
   airmail_group: 6
   air_parcel_group: 5
@@ -2919,6 +3210,7 @@
   israel_post_name: "קריסמס (אוק' ההודי)"
   name_calculated: CHRISTMAS ISLAND
   official_name_english: CHRISTMAS ISLAND
+  eco_group: 0
 292:
   airmail_group: 3
   air_parcel_group: 3
@@ -2929,6 +3221,7 @@
   israel_post_name: "ראוניון"
   name_calculated: REUNION
   official_name_english: REUNION
+  eco_group: 0
 293:
   airmail_group: 0
   air_parcel_group: 0
@@ -2939,6 +3232,7 @@
   israel_post_name: "ראס אל ח'יימה - אין שירות"
   name_calculated: RAS EL HEKMA
   official_name_english: RAS EL HEKMA
+  eco_group: 0
 294:
   airmail_group: 6
   air_parcel_group: 5
@@ -2949,6 +3243,7 @@
   israel_post_name: "רואנדה"
   name_calculated: RWANDA
   official_name_english: RWANDA
+  eco_group: 0
 295:
   airmail_group: 3
   air_parcel_group: 3
@@ -2959,6 +3254,7 @@
   israel_post_name: "רודוס"
   name_calculated: RHODES
   official_name_english: RHODES
+  eco_group: 0
 296:
   airmail_group: 6
   air_parcel_group: 5
@@ -2969,6 +3265,7 @@
   israel_post_name: "רודריגז (אי)"
   name_calculated: RODRIGUES ISLAND
   official_name_english: RODRIGUES ISLAND
+  eco_group: 0
 297:
   airmail_group: 4
   air_parcel_group: 3
@@ -2979,6 +3276,7 @@
   israel_post_name: "רומניה"
   name_calculated: ROMANIA
   official_name_english: ROMANIA
+  eco_group: 0
 298:
   airmail_group: 2
   air_parcel_group: 5
@@ -2989,6 +3287,7 @@
   israel_post_name: "רוס"
   name_calculated: ROSS ISLAND
   official_name_english: ROSS ISLAND
+  eco_group: 0
 299:
   airmail_group: 4
   air_parcel_group: 2
@@ -2999,6 +3298,7 @@
   israel_post_name: "רוסיה"
   name_calculated: RUSSIA
   official_name_english: RUSSIAN FEDERATION
+  eco_group: 0
 300:
   airmail_group: 4
   air_parcel_group: 5
@@ -3009,6 +3309,7 @@
   israel_post_name: "רפובליקה דומיניקנית"
   name_calculated: DOMINICAN REPUBLIC
   official_name_english: DOMINICAN REPUBLIC
+  eco_group: 0
 301:
   airmail_group: 3
   air_parcel_group: 2
@@ -3019,6 +3320,7 @@
   israel_post_name: "שבדיה"
   name_calculated: SWEDEN
   official_name_english: SWEDEN
+  eco_group: 2
 302:
   airmail_group: 3
   air_parcel_group: 3
@@ -3029,6 +3331,7 @@
   israel_post_name: "שוויצריה"
   name_calculated: SWITZERLAND
   official_name_english: SWITZERLAND
+  eco_group: 1
 303:
   airmail_group: 6
   air_parcel_group: 5
@@ -3039,6 +3342,7 @@
   israel_post_name: "שורטלנד"
   name_calculated: SHORTLAND ISLANDS
   official_name_english: SHORTLAND ISLANDS
+  eco_group: 0
 304:
   airmail_group: 0
   air_parcel_group: 0
@@ -3049,6 +3353,7 @@
   israel_post_name: "שרג'ה - אין שירות"
   name_calculated: 
   official_name_english: 
+  eco_group: 0
 305:
   airmail_group: 6
   air_parcel_group: 4
@@ -3059,6 +3364,7 @@
   israel_post_name: "תאילנד"
   name_calculated: THAILAND
   official_name_english: THAILAND
+  eco_group: 0
 306:
   airmail_group: 6
   air_parcel_group: 5
@@ -3069,6 +3375,7 @@
   israel_post_name: "תוניסיה"
   name_calculated: TUNISIA
   official_name_english: TUNISIA
+  eco_group: 0
 307:
   airmail_group: 4
   air_parcel_group: 3
@@ -3079,6 +3386,7 @@
   israel_post_name: "תורכיה"
   name_calculated: TURKEY
   official_name_english: TURKEY
+  eco_group: 0
 308:
   airmail_group: 0
   air_parcel_group: 0
@@ -3089,3 +3397,4 @@
   israel_post_name: "תימן - אין שירות"
   name_calculated: YEMEN
   official_name_english: YEMEN
+  eco_group: 0

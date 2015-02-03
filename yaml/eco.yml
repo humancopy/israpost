@@ -1,0 +1,31 @@
+---
+weight_limit: 2000
+additions: 100
+
+1:
+    !ruby/range 1..100: 33.00
+    !ruby/range 101..250: 34.80
+    !ruby/range 251..500: 39.70
+    !ruby/range 501..750: 45.80
+    !ruby/range 751..1000: 52.00
+    !ruby/range 1001..1500: 60.00
+    !ruby/range 1501..2000: 70.70
+    addition: 0
+2:
+    !ruby/range 1..100: 32.80
+    !ruby/range 101..250: 36.30
+    !ruby/range 251..500: 42.70
+    !ruby/range 501..750: 50.80
+    !ruby/range 751..1000: 58.20
+    !ruby/range 1001..1500: 68.60
+    !ruby/range 1501..2000: 82.80
+    addition: 0
+3:
+    !ruby/range 1..100: 39.00
+    !ruby/range 101..250: 44.30
+    !ruby/range 251..500: 53.90
+    !ruby/range 501..750: 65.20
+    !ruby/range 751..1000: 75.80
+    !ruby/range 1001..1500: 91.60
+    !ruby/range 1501..2000: 113.00
+    addition: 0

@@ -7,6 +7,7 @@ class PostRate
     @@countries     = self.class.load_yaml 'yaml/countries.yml' unless defined?(@@countries)
     @@airmail_rates = self.class.load_yaml 'yaml/airmail.yml' unless defined?(@@airmail_rates)
     @@ems_rates     = self.class.load_yaml 'yaml/ems.yml' unless defined?(@@ems_rates)
+    @@eco_rates     = self.class.load_yaml 'yaml/eco.yml' unless defined?(@@eco_rates)
     unless defined?(@@air_parcel_rates)
       @@air_parcel_rates = self.class.load_yaml 'yaml/air_parcel.yml'
     end
@@ -106,8 +107,8 @@ private
     YAML::load_file(File.join(File.dirname(File.expand_path(__FILE__)), name))
   end
 
-  @@delivery_methods = %w[ airmail air_parcel ems ]
-  @@country_detail_fields = %w[ airmail_group ems_group name_calculated israel_post_name
+  @@delivery_methods = %w[ airmail air_parcel ems eco ]
+  @@country_detail_fields = %w[ airmail_group ems_group eco_group name_calculated israel_post_name
                                 air_parcel_group appear_in_shipping_list country_code
                                 common_name official_name_english]
 

@@ -68,6 +68,16 @@ post '/rates' do
     max_delivery_date: ship_date(29.days)
   } if allow_regular?(weight, data)
 
+  # add eco post
+  rates << {
+    service_name: "Express Post",
+    service_code: "ECO",
+    total_price: ship_price(post_rates['eco']),
+    currency: CURRENCY_CODE,
+    min_delivery_date: ship_date(7.days),
+    max_delivery_date: ship_date(11.days)
+  } unless post_rates['eco'].zero?
+
   # add speed post
   rates << {
     service_name: "Speed Post",
