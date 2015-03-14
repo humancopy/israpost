@@ -37,7 +37,7 @@ class PostRate
     dm = @@delivery_methods.reject{|m|m=="airmail" if parcel}
     # Now get the cheapest delivery method:
     h = Hash[ dm.collect{|m|[get_rate_for(m), m]} ]
-    h[h.keys.sort.first]
+    h[h.keys.compact.sort.first] || 0
   end
 
   def delivery_method=(name)

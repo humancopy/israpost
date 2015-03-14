@@ -76,7 +76,7 @@ post '/rates' do
     currency: CURRENCY_CODE,
     min_delivery_date: ship_date(7.days),
     max_delivery_date: ship_date(11.days)
-  } unless post_rates['eco'].zero?
+  } unless (post_rates['eco'] || 0).zero?
 
   # add speed post
   rates << {
@@ -86,7 +86,7 @@ post '/rates' do
     currency: CURRENCY_CODE,
     min_delivery_date: ship_date(3.days),
     max_delivery_date: ship_date(7.days)
-  } unless post_rates['ems'].zero?
+  } unless (post_rates['ems'] || 0).zero?
 
   json :rates => rates
 end
