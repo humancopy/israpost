@@ -1,4 +1,4 @@
-ruby '2.1.2'
+ruby '2.2.0'
 source 'http://rubygems.org'
 
 gem 'sinatra'
@@ -10,5 +10,4 @@ gem 'newrelic_rpm'
 
 group :development do
   gem 'foreman'
-  gem 'heroku'
 end
