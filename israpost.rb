@@ -77,7 +77,7 @@ class Israpost < Sinatra::Application
   def create_rate(location, rate_name, name, code = nil)
     price_method = location == :il ? :il_ship_price : :es_ship_price
     allow_free_shipping = code == 'AIR'
-    if shipping_locations[location][:rates][rate_name] || (allow_free_shipping && free_shipping?)
+    if !shipping_locations[location][:rates][rate_name].to_f.zero? || (allow_free_shipping && free_shipping?)
       delivery_estimate = delivery_time(location, rate_name)
       code ||= rate_name.upcase
       {
@@ -135,7 +135,7 @@ class Israpost < Sinatra::Application
         # } unless (post_rates['eco'] || 0).zero?
 
         # add speed post
-        rates << create_rate(:il, 'ems', 'Poster Delivery by Speed Post') unless (shipping_locations[:il][:rates]['ems'] || 0).zero?
+        rates << create_rate(:il, 'ems', 'Poster Delivery by Speed Post')
       end
 
       rates.compact
@@ -158,13 +158,17 @@ class Israpost < Sinatra::Application
         # } if allow_regular?
 
         # add registered airmail
+        # rates << create_rate(:es, 'carta', (free_shipping? ? 'FREE ' : '') + 'Registered Airmail', 'AIR') # if allow_regular?
         rates << create_rate(:es, 'carta_certificada', (free_shipping? ? 'FREE ' : '') + 'Registered Airmail', 'AIR') # if allow_regular?
 
+        # add express post
+        rates << create_rate(:es, 'cui', 'Express Post', 'CUI')
+
         # add speed post
-        rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS') unless (shipping_locations[:es][:rates]['carta_certificada_urgente'] || 0).zero?
+        rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS')
 
         # add paquetes
-        rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS') unless (shipping_locations[:es][:rates]['paquete_prioritario'] || 0).zero?
+        rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS')
       end
 
       rates.compact

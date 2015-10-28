@@ -1,0 +1,50 @@
+---
+weight_limit: 2000
+additions: 100
+handling: 5
+
+1:
+    !ruby/range 0..200: 8.97
+    !ruby/range 201..500: 11.62
+    !ruby/range 501..1000: 15.17
+    !ruby/range 1001..1500: 18.36
+    !ruby/range 1501..2000: 21.92
+    addition: 0
+    discount: 20
+    delivery_time: !ruby/range 3..6
+2:
+    !ruby/range 0..200: 12.17
+    !ruby/range 201..500: 16.23
+    !ruby/range 501..1000: 21.30
+    !ruby/range 1001..1500: 36.37
+    !ruby/range 1501..2000: 30.47
+    addition: 0
+    discount: 35
+    delivery_time: !ruby/range 4..8
+3:
+    !ruby/range 0..200: 12.17
+    !ruby/range 201..500: 16.23
+    !ruby/range 501..1000: 21.30
+    !ruby/range 1001..1500: 36.37
+    !ruby/range 1501..2000: 30.47
+    addition: 0
+    discount: 35
+    delivery_time: !ruby/range 4..8
+4:
+    !ruby/range 0..200: 12.17
+    !ruby/range 201..500: 16.23
+    !ruby/range 501..1000: 21.30
+    !ruby/range 1001..1500: 36.37
+    !ruby/range 1501..2000: 30.47
+    addition: 0
+    discount: 35
+    delivery_time: !ruby/range 4..8
+5:
+    !ruby/range 0..200: 12.17
+    !ruby/range 201..500: 16.23
+    !ruby/range 501..1000: 21.30
+    !ruby/range 1001..1500: 36.37
+    !ruby/range 1501..2000: 30.47
+    addition: 0
+    discount: 35
+    delivery_time: !ruby/range 4..8

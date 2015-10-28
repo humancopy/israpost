@@ -22,7 +22,7 @@ handling: 1
     !ruby/range 1001..2000: 20.14
     addition: 0
     discount: 20
-    delivery_time: !ruby/range 3..9
+    delivery_time: !ruby/range 4..9
 2:
     !ruby/range 1..20: 1.00
     !ruby/range 21..50: 1.83

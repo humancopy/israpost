@@ -14,8 +14,9 @@ class PostRate
     @@carta_certificada_rates         = self.class.load_yaml 'yaml/carta_certificada.yml'         unless defined?(@@carta_certificada_rates)
     @@carta_urgente_rates             = self.class.load_yaml 'yaml/carta_urgente.yml'             unless defined?(@@carta_urgente_rates)
     @@carta_certificada_urgente_rates = self.class.load_yaml 'yaml/carta_certificada_urgente.yml' unless defined?(@@carta_certificada_urgente_rates)
-    @@paquete_prioritario_rates       = self.class.load_yaml 'yaml/paquete_prioritario.yml' unless defined?(@@paquete_prioritario_rates)
-    @@paquete_economico_rates         = self.class.load_yaml 'yaml/paquete_economico.yml' unless defined?(@@paquete_economico_rates)
+    @@paquete_prioritario_rates       = self.class.load_yaml 'yaml/paquete_prioritario.yml'       unless defined?(@@paquete_prioritario_rates)
+    @@paquete_economico_rates         = self.class.load_yaml 'yaml/paquete_economico.yml'         unless defined?(@@paquete_economico_rates)
+    @@cui_rates                       = self.class.load_yaml 'yaml/cui.yml'                       unless defined?(@@cui_rates)
 
     self.attributes = args
   end
@@ -130,9 +131,9 @@ private
     YAML::load_file(File.join(File.dirname(File.expand_path(__FILE__)), name))
   end
 
-  @@delivery_time_methods = %w[ ems_delivery_time carta_delivery_time carta_certificada_delivery_time carta_urgente_delivery_time carta_certificada_urgente_delivery_time paquete_prioritario_delivery_time paquete_economico_delivery_time ]
-  @@delivery_methods = %w[ airmail air_parcel eco ems carta carta_certificada carta_urgente carta_certificada_urgente paquete_prioritario paquete_economico ]
-  @@country_detail_fields = %w[ airmail_group ems_group eco_group carta_group carta_certificada_group carta_urgente_group carta_certificada_urgente_group name_calculated paquete_prioritario_group paquete_economico_group israel_post_name
+  @@delivery_time_methods = %w[ ems_delivery_time carta_delivery_time carta_certificada_delivery_time carta_urgente_delivery_time carta_certificada_urgente_delivery_time paquete_prioritario_delivery_time paquete_economico_delivery_time cui_delivery_time ]
+  @@delivery_methods = %w[ airmail air_parcel eco ems carta carta_certificada carta_urgente carta_certificada_urgente cui paquete_prioritario paquete_economico ]
+  @@country_detail_fields = %w[ airmail_group ems_group eco_group carta_group carta_certificada_group carta_urgente_group carta_certificada_urgente_group name_calculated paquete_prioritario_group paquete_economico_group cui_group israel_post_name
                                 air_parcel_group appear_in_shipping_list country_code
                                 common_name official_name_english]
 

@@ -12,7 +12,7 @@ handling: 4
     !ruby/range 1001..2000: 7.39
     addition: 0
     discount: 20
-    delivery_time: !ruby/range 2..4
+    delivery_time: !ruby/range 1..3
 1:
     !ruby/range 1..20: 3.35
     !ruby/range 21..50: 3.92
@@ -22,7 +22,7 @@ handling: 4
     !ruby/range 1001..2000: 22.59
     addition: 0
     discount: 20
-    delivery_time: !ruby/range 2..5
+    delivery_time: !ruby/range 2..4
 2:
     !ruby/range 1..20: 3.45
     !ruby/range 21..50: 4.28
@@ -32,7 +32,7 @@ handling: 4
     !ruby/range 1001..2000: 39.06
     addition: 0
     discount: 35
-    delivery_time: !ruby/range 3..7
+    delivery_time: !ruby/range 3..6
 3:
     !ruby/range 1..20: 3.45
     !ruby/range 21..50: 4.28
@@ -42,7 +42,7 @@ handling: 4
     !ruby/range 1001..2000: 39.06
     addition: 0
     discount: 35
-    delivery_time: !ruby/range 3..7
+    delivery_time: !ruby/range 3..6
 4:
     !ruby/range 1..20: 3.45
     !ruby/range 21..50: 4.28
@@ -52,7 +52,7 @@ handling: 4
     !ruby/range 1001..2000: 39.06
     addition: 0
     discount: 35
-    delivery_time: !ruby/range 3..7
+    delivery_time: !ruby/range 3..6
 5:
     !ruby/range 1..20: 3.45
     !ruby/range 21..50: 4.28
@@ -62,4 +62,4 @@ handling: 4
     !ruby/range 1001..2000: 39.06
     addition: 0
     discount: 35
-    delivery_time: !ruby/range 3..7
+    delivery_time: !ruby/range 3..6
