@@ -14,6 +14,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -29,6 +31,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -44,6 +48,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -59,6 +65,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -74,6 +82,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -89,6 +99,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -104,6 +116,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -119,6 +133,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -134,6 +150,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -149,6 +167,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -164,6 +184,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -179,6 +201,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -194,6 +218,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -209,6 +235,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -224,6 +252,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -239,6 +269,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -254,6 +286,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -269,6 +303,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -284,6 +320,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -299,6 +337,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -314,6 +354,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -329,6 +371,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -344,6 +388,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -359,6 +405,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -374,6 +422,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -389,6 +439,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -404,6 +456,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -419,6 +473,8 @@
   carta_certificada_group:
   carta_urgente_group:
   carta_certificada_urgente_group:
+  paquete_prioritario_group:
+  paquete_economico_group:
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -434,6 +490,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -449,6 +507,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -464,6 +524,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -479,6 +541,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -494,6 +558,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -509,6 +575,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -524,6 +592,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -539,6 +609,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -554,6 +626,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 2
   air_parcel_group: 1
   appear_in_shipping_list: 1
@@ -569,6 +643,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -584,6 +660,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -599,6 +677,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -614,6 +694,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -629,6 +711,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -644,6 +728,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -659,6 +745,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -674,6 +762,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -689,6 +779,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -704,6 +796,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -719,6 +813,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -734,6 +830,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -749,6 +847,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -764,6 +864,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -779,6 +881,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -794,6 +898,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -809,6 +915,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 0
@@ -824,6 +932,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -839,6 +949,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -854,6 +966,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -869,6 +983,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -884,6 +1000,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -899,6 +1017,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list:
@@ -914,6 +1034,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -929,6 +1051,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -944,6 +1068,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -959,6 +1085,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -974,6 +1102,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -989,6 +1119,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -1004,6 +1136,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1019,6 +1153,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -1034,6 +1170,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1049,6 +1187,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1064,6 +1204,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1079,6 +1221,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1094,6 +1238,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1109,6 +1255,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1124,6 +1272,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1139,6 +1289,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 7
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -1154,6 +1306,8 @@
   carta_certificada_group:
   carta_urgente_group:
   carta_certificada_urgente_group:
+  paquete_prioritario_group:
+  paquete_economico_group:
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1169,6 +1323,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1184,6 +1340,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list:
@@ -1199,6 +1357,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1214,6 +1374,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -1229,6 +1391,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1244,6 +1408,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1259,6 +1425,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -1274,6 +1442,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1289,6 +1459,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1304,6 +1476,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1319,6 +1493,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1334,6 +1510,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1349,6 +1527,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1364,6 +1544,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1379,6 +1561,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1394,6 +1578,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1409,6 +1595,8 @@
   carta_certificada_group:
   carta_urgente_group:
   carta_certificada_urgente_group:
+  paquete_prioritario_group:
+  paquete_economico_group:
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1424,6 +1612,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -1439,6 +1629,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1454,6 +1646,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1469,6 +1663,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -1484,6 +1680,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1499,6 +1697,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -1514,6 +1714,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -1529,6 +1731,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1544,6 +1748,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1559,6 +1765,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -1574,6 +1782,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1589,6 +1799,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1604,6 +1816,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 2
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -1619,6 +1833,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1634,6 +1850,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1649,6 +1867,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1664,6 +1884,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -1679,6 +1901,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1694,6 +1918,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1709,6 +1935,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -1724,6 +1952,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1739,6 +1969,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1754,6 +1986,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1769,6 +2003,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -1784,6 +2020,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1799,6 +2037,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1814,6 +2054,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -1829,6 +2071,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -1844,6 +2088,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -1859,6 +2105,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1874,6 +2122,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1889,6 +2139,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1904,6 +2156,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1919,6 +2173,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1934,6 +2190,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1949,6 +2207,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1964,6 +2224,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1979,6 +2241,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -1994,6 +2258,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2009,6 +2275,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2024,6 +2292,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2039,6 +2309,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list:
@@ -2054,6 +2326,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2069,6 +2343,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -2084,6 +2360,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2099,6 +2377,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2114,6 +2394,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2129,6 +2411,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2144,6 +2428,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2159,6 +2445,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2174,6 +2462,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2189,6 +2479,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2204,6 +2496,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2219,6 +2513,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2234,6 +2530,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2249,6 +2547,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2264,6 +2564,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2279,6 +2581,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2294,6 +2598,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2309,6 +2615,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -2324,6 +2632,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2339,6 +2649,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2354,6 +2666,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2369,6 +2683,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -2384,6 +2700,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2399,6 +2717,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -2414,6 +2734,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -2429,6 +2751,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2444,6 +2768,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2459,6 +2785,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2474,6 +2802,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2489,6 +2819,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -2504,6 +2836,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2519,6 +2853,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2534,6 +2870,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -2549,6 +2887,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -2564,6 +2904,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2579,6 +2921,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2594,6 +2938,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -2609,6 +2955,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2624,6 +2972,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2639,6 +2989,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2654,6 +3006,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2669,6 +3023,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -2684,6 +3040,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2699,6 +3057,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2714,6 +3074,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2729,6 +3091,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2744,6 +3108,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -2759,6 +3125,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -2774,6 +3142,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2789,6 +3159,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2804,6 +3176,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2819,6 +3193,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2834,6 +3210,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -2849,6 +3227,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -2864,6 +3244,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -2879,6 +3261,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2894,6 +3278,8 @@
   carta_certificada_group: 0
   carta_urgente_group: 0
   carta_certificada_urgente_group: 0
+  paquete_prioritario_group: 0
+  paquete_economico_group: 0
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2909,6 +3295,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -2924,6 +3312,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2939,6 +3329,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2954,6 +3346,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -2969,6 +3363,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 0
@@ -2984,6 +3380,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -2999,6 +3397,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3014,6 +3414,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -3029,6 +3431,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3044,6 +3448,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -3059,6 +3465,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3074,6 +3482,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -3089,6 +3499,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 3
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -3104,6 +3516,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -3119,6 +3533,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3134,6 +3550,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3149,6 +3567,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3164,6 +3584,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 4
   appear_in_shipping_list: 1
@@ -3179,6 +3601,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3194,6 +3618,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3209,6 +3635,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 2
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3224,6 +3652,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3239,6 +3669,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3254,6 +3686,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3269,6 +3703,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -3284,6 +3720,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3299,6 +3737,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3314,6 +3754,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3329,6 +3771,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -3344,6 +3788,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3359,6 +3805,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 4
   air_parcel_group: 3
   appear_in_shipping_list: 1
@@ -3374,6 +3822,8 @@
   carta_certificada_group: 2
   carta_urgente_group: 2
   carta_certificada_urgente_group: 2
+  paquete_prioritario_group: 2
+  paquete_economico_group: 2
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -3389,6 +3839,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 3
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -3404,6 +3856,8 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
+  paquete_prioritario_group: 1
+  paquete_economico_group: 1
 - airmail_group: 1
   air_parcel_group: 1
   appear_in_shipping_list: 1
@@ -3419,6 +3873,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3434,6 +3890,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 4
   air_parcel_group: 2
   appear_in_shipping_list: 1
@@ -3449,6 +3907,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3464,6 +3924,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 5
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3479,6 +3941,8 @@
   carta_certificada_group: 5
   carta_urgente_group: 5
   carta_certificada_urgente_group: 5
+  paquete_prioritario_group: 5
+  paquete_economico_group: 5
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3494,6 +3958,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3509,6 +3975,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 1
@@ -3524,6 +3992,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 0
   air_parcel_group: 0
   appear_in_shipping_list: 0
@@ -3539,6 +4009,8 @@
   carta_certificada_group: 4
   carta_urgente_group: 4
   carta_certificada_urgente_group: 4
+  paquete_prioritario_group: 4
+  paquete_economico_group: 4
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3554,6 +4026,8 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3
 - airmail_group: 6
   air_parcel_group: 5
   appear_in_shipping_list: 1
@@ -3569,3 +4043,5 @@
   carta_certificada_group: 3
   carta_urgente_group: 3
   carta_certificada_urgente_group: 3
+  paquete_prioritario_group: 3
+  paquete_economico_group: 3

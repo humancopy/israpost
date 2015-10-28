@@ -160,6 +160,9 @@ class Israpost < Sinatra::Application
 
         # add speed post
         rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS') unless (shipping_locations[:es][:rates]['carta_certificada_urgente'] || 0).zero?
+
+        # add paquetes
+        rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS') unless (shipping_locations[:es][:rates]['paquete_prioritario'] || 0).zero?
       end
 
       rates
