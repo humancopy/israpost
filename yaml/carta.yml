@@ -3,6 +3,16 @@ weight_limit: 2000
 additions: 100
 handling: 1
 
+0:
+    !ruby/range 1..20: 0.42
+    !ruby/range 21..50: 0.55
+    !ruby/range 51..100: 0.92
+    !ruby/range 101..500: 2.03
+    !ruby/range 501..1000: 4.58
+    !ruby/range 1001..2000: 5.19
+    addition: 0
+    discount: 20
+    delivery_time: !ruby/range 3..5
 1:
     !ruby/range 1..20: 0.90
     !ruby/range 21..50: 1.47
@@ -12,7 +22,7 @@ handling: 1
     !ruby/range 1001..2000: 20.14
     addition: 0
     discount: 20
-    delivery_time: !ruby/range 7..21
+    delivery_time: !ruby/range 3..9
 2:
     !ruby/range 1..20: 1.00
     !ruby/range 21..50: 1.83
