@@ -76,17 +76,19 @@ class Israpost < Sinatra::Application
   end
   def create_rate(location, rate_name, name, code = nil)
     price_method = location == :il ? :il_ship_price : :es_ship_price
-    delivery_estimate = delivery_time(location, rate_name)
-    allow_free_shipping = code == 'AIR'
-    code ||= rate_name.upcase
-    {
-      service_name:      name,
-      service_code:      code,
-      total_price:       allow_free_shipping && free_shipping? ? 0 : self.send(price_method, shipping_locations[location][:rates][rate_name]),
-      currency:          CURRENCY_CODE,
-      min_delivery_date: delivery_estimate[:minimum],
-      max_delivery_date: delivery_estimate[:maximum]
-    }
+    if shipping_locations[location][:rates][rate_name]
+      delivery_estimate = delivery_time(location, rate_name)
+      allow_free_shipping = code == 'AIR'
+      code ||= rate_name.upcase
+      {
+        service_name:      name,
+        service_code:      code,
+        total_price:       allow_free_shipping && free_shipping? ? 0 : self.send(price_method, shipping_locations[location][:rates][rate_name]),
+        currency:          CURRENCY_CODE,
+        min_delivery_date: delivery_estimate[:minimum],
+        max_delivery_date: delivery_estimate[:maximum]
+      }
+    end
   end
   def shipping_locations
     @shipping_locations ||= begin
@@ -136,7 +138,7 @@ class Israpost < Sinatra::Application
         rates << create_rate(:il, 'ems', 'Poster Delivery by Speed Post') unless (shipping_locations[:il][:rates]['ems'] || 0).zero?
       end
 
-      rates
+      rates.compact
     end
   end
 
@@ -165,7 +167,7 @@ class Israpost < Sinatra::Application
         rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS') unless (shipping_locations[:es][:rates]['paquete_prioritario'] || 0).zero?
       end
 
-      rates
+      rates.compact
     end
   end
 
