@@ -1,5 +1,5 @@
-ruby '2.2.0'
-source 'http://rubygems.org'
+source 'https://rubygems.org'
+ruby '2.2.3'
 
 gem 'sinatra'
 gem 'sinatra-contrib'
@@ -10,4 +10,10 @@ gem 'newrelic_rpm'
 
 group :development do
   gem 'foreman'
+  gem 'dotenv'
+  gem 'byebug'
+end
+
+group :production, :staging do
+  gem 'exception_notification'
 end

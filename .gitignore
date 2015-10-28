@@ -21,3 +21,4 @@ CVS
 .env
 .ruby-version
 log/*
+.bundle/config

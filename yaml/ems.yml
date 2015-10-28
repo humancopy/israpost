@@ -1,48 +1,60 @@
 ---
 weight_limit: 20000
 additions: 1000
+handling: 4
 
 1:
     !ruby/range 1..500: 87.00
     !ruby/range 501..1000: 107.00
     addition: 37.00
+    delivery_time: !ruby/range 3..7
 2:
     !ruby/range 1..500: 105.00
     !ruby/range 501..1000: 130.00
     addition: 39.00
+    delivery_time: !ruby/range 3..7
 3:
     !ruby/range 1..500: 109.00
     !ruby/range 501..1000: 116.00
     addition: 15.00
+    delivery_time: !ruby/range 3..7
 4:
     !ruby/range 1..500: 108.00
     !ruby/range 501..1000: 126.00
     addition: 29.00
+    delivery_time: !ruby/range 3..7
 5:
     !ruby/range 1..500: 98.00
     !ruby/range 501..1000: 123.00
     addition: 29.00
+    delivery_time: !ruby/range 3..7
 6:
     !ruby/range 1..500: 106.00
     !ruby/range 501..1000: 128.00
     addition: 33.00
+    delivery_time: !ruby/range 3..7
 7:
     !ruby/range 1..500: 100.00
     !ruby/range 501..1000: 133.00
     addition: 40.00
+    delivery_time: !ruby/range 3..7
 8:
     !ruby/range 1..500: 121.00
     !ruby/range 501..1000: 142.00
     addition: 37.00
+    delivery_time: !ruby/range 3..7
 9:
     !ruby/range 1..500: 161.00
     !ruby/range 501..1000: 182.00
     addition: 28.00
+    delivery_time: !ruby/range 3..7
 10:
     !ruby/range 1..500: 117.00
     !ruby/range 501..1000: 134.00
     addition: 18.00
+    delivery_time: !ruby/range 3..7
 11:
     !ruby/range 1..500: 178.00
     !ruby/range 501..1000: 190.00
     addition: 29.00
+    delivery_time: !ruby/range 3..7

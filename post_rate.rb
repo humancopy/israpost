@@ -4,13 +4,17 @@ require 'json'
 class PostRate
   def initialize(args={})
     # load YAMLs to hashes
-    @@countries     = self.class.load_yaml 'yaml/countries.yml' unless defined?(@@countries)
-    @@airmail_rates = self.class.load_yaml 'yaml/airmail.yml' unless defined?(@@airmail_rates)
-    @@ems_rates     = self.class.load_yaml 'yaml/ems.yml' unless defined?(@@ems_rates)
-    @@eco_rates     = self.class.load_yaml 'yaml/eco.yml' unless defined?(@@eco_rates)
-    unless defined?(@@air_parcel_rates)
-      @@air_parcel_rates = self.class.load_yaml 'yaml/air_parcel.yml'
-    end
+    @@countries        = self.class.load_yaml 'yaml/countries.yml'  unless defined?(@@countries)
+    @@ems_rates        = self.class.load_yaml 'yaml/ems.yml'        unless defined?(@@ems_rates)
+    @@airmail_rates    = self.class.load_yaml 'yaml/airmail.yml'    unless defined?(@@airmail_rates)
+    @@eco_rates        = self.class.load_yaml 'yaml/eco.yml'        unless defined?(@@eco_rates)
+    @@air_parcel_rates = self.class.load_yaml 'yaml/air_parcel.yml' unless defined?(@@air_parcel_rates)
+
+    @@carta_rates                     = self.class.load_yaml 'yaml/carta.yml'                     unless defined?(@@carta_rates)
+    @@carta_certificada_rates         = self.class.load_yaml 'yaml/carta_certificada.yml'         unless defined?(@@carta_certificada_rates)
+    @@carta_urgente_rates             = self.class.load_yaml 'yaml/carta_urgente.yml'             unless defined?(@@carta_urgente_rates)
+    @@carta_certificada_urgente_rates = self.class.load_yaml 'yaml/carta_certificada_urgente.yml' unless defined?(@@carta_certificada_urgente_rates)
+
     self.attributes = args
   end
 
@@ -20,13 +24,14 @@ class PostRate
   def weight=(amount) amount.to_i<=0 ? raise(InvalidWeight) : @weight = amount.to_i end
 
   def country ; name_calculated if @country_details end
+  def country_details; @country_details || raise(InvalidCountry) end
 
   def country=(name)
-    hash = @@countries.select do |k,v|
+    hash = @@countries.select do |v|
       [ v["name_calculated"],   v["official_name_english"],
         v["israel_post_name"],  v["country_code"],
       ].include?(name.to_s.upcase)
-      end.values.first
+      end.first
     raise InvalidCountry.new(name) if not hash
     @country_details = hash
   end
@@ -62,7 +67,7 @@ class PostRate
 
   def to_json
     meths = @@country_detail_fields.collect(&:to_sym)
-    meths = meths + @@delivery_methods.collect(&:to_sym)
+    meths = meths + @@delivery_methods.collect(&:to_sym) + @@delivery_time_methods.collect(&:to_sym)
     # Reject setter methods, question mark methods, and the name of this method itself:
     meths = meths | self.class.instance_methods(false).reject{
         |m| m.to_s[-1,1]=="=" or m.to_s[-1,1]=="?" or m.to_sym==__method__}
@@ -77,12 +82,12 @@ private
       country_details[method.to_s]
     elsif @@delivery_methods.member?(method.to_s)
       get_rate_for method.to_s
+    elsif @@delivery_time_methods.member?(method.to_s)
+      get_delivery_time_for method.to_s
     else
       raise NoMethodError.new("No method '#{method}'.")
     end
   end
-
-  def country_details; @country_details || raise(InvalidCountry) end
 
   def get_rate_for(name)
     rates_for    = self.class.send(:class_variable_get, :"@@#{name}_rates")
@@ -100,15 +105,28 @@ private
       add = (((weight-(max_priced_weight+1)) / additions) + 1) * rates["addition"]
       rate = max + add
     end
-    return rate.round(1) if rate
+    if rates["discount"]
+      discount_percentage = rates["discount"].to_f
+      discount_amount = (discount_percentage/100)*rate
+      rate -= discount_amount
+    end
+    return rate.round(1) + (rates_for['handling'] || 0).to_f if rate
+  end
+
+  def get_delivery_time_for(name)
+    attr_name = name.to_s.sub(/_delivery_time$/, '')
+    rates_for = self.class.send(:class_variable_get, :"@@#{attr_name}_rates")
+    rates     = rates_for[self.send(:"#{attr_name}_group")]
+    rates['delivery_time']
   end
 
   def self.load_yaml(name)
     YAML::load_file(File.join(File.dirname(File.expand_path(__FILE__)), name))
   end
 
-  @@delivery_methods = %w[ airmail air_parcel ems eco ]
-  @@country_detail_fields = %w[ airmail_group ems_group eco_group name_calculated israel_post_name
+  @@delivery_time_methods = %w[ ems_delivery_time carta_delivery_time carta_certificada_delivery_time carta_urgente_delivery_time carta_certificada_urgente_delivery_time ]
+  @@delivery_methods = %w[ airmail air_parcel eco ems carta carta_certificada carta_urgente carta_certificada_urgente ]
+  @@country_detail_fields = %w[ airmail_group ems_group eco_group carta_group carta_certificada_group carta_urgente_group carta_certificada_urgente_group name_calculated israel_post_name
                                 air_parcel_group appear_in_shipping_list country_code
                                 common_name official_name_english]
 
