@@ -3,7 +3,7 @@ require 'bundler'
 
 Bundler.require(:default, ENV['RACK_ENV'] || :development)
 
-Dotenv.load
+Dotenv.load if ENV['RACK_ENV'] == 'development'
 
 require 'active_support/core_ext'
 require 'sinatra/json'
