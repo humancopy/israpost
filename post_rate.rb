@@ -105,12 +105,16 @@ private
       add = (((weight-(max_priced_weight+1)) / additions) + 1) * rates["addition"]
       rate = max + add
     end
-    if rates["discount"]
-      discount_percentage = rates["discount"].to_f
-      discount_amount = (discount_percentage/100)*rate
-      rate -= discount_amount
+    if rate
+      if rates["discount"]
+        discount_percentage = rates["discount"].to_f
+
+        discount_amount = (discount_percentage/100)*rate
+        rate -= discount_amount
+      end
+
+      rate.round(1) + (rates_for['handling'] || 0).to_f
     end
-    return rate.round(1) + (rates_for['handling'] || 0).to_f if rate
   end
 
   def get_delivery_time_for(name)
