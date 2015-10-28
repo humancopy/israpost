@@ -117,7 +117,7 @@ private
     attr_name = name.to_s.sub(/_delivery_time$/, '')
     rates_for = self.class.send(:class_variable_get, :"@@#{attr_name}_rates")
     rates     = rates_for[self.send(:"#{attr_name}_group")]
-    rates['delivery_time']
+    rates['delivery_time'] if rates
   end
 
   def self.load_yaml(name)
