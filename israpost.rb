@@ -7,6 +7,7 @@ class Israpost < Sinatra::Application
   FREE_SHIPPING_FROM = 150
   SHIPPING_METHODS = {es: ['AIR', 'EMS'], il: 'EMS'}
   SHIPPING_METHODS_NAMES = {'AIR' => 'Registered Airmail', 'EMS' => 'Speed Post'}
+  EXTRA_GRAMS = 50
 
   use ExceptionNotification::Rack,
     email: {
@@ -59,7 +60,7 @@ class Israpost < Sinatra::Application
     @total_weight ||= calculate_weight(data['rate']['items'])
   end
   def calculate_weight(items)
-    items.inject(0) { |mem, item| mem + (item['requires_shipping'] ? item['grams'].to_i*item['quantity'].to_i : 0) }
+    items.inject(EXTRA_GRAMS) { |mem, item| mem + (item['requires_shipping'] ? item['grams'].to_i*item['quantity'].to_i : 0) }
   end
   def cart_total
     @cart_total ||= calculate_total(data['rate']['items'])
