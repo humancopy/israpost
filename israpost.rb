@@ -69,7 +69,7 @@ class Israpost < Sinatra::Application
     items.inject(0) { |mem, item| mem + (item['price'].to_i * item['quantity'].to_i) } / 100
   end
   def free_shipping?
-    shipping_locations[:es] && shipping_locations[:es][:total] >= 100
+    shipping_locations[:es] && shipping_locations[:es][:total] >= FREE_SHIPPING_FROM
   end
   def delivery_time(location, rate_name)
     minimum, maximum = shipping_locations[location][:rates]["#{rate_name}_delivery_time"].split('..').collect(&:to_i)
