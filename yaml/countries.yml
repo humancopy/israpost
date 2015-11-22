@@ -1454,7 +1454,7 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
-  cui_group: 0
+  cui_group: 1
   paquete_prioritario_group: 1
   paquete_economico_group: 1
 - airmail_group: 6
@@ -3344,7 +3344,7 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
-  cui_group: 0
+  cui_group: 1
   paquete_prioritario_group: 1
   paquete_economico_group: 1
 - airmail_group: 4
@@ -3362,7 +3362,7 @@
   carta_certificada_group: 1
   carta_urgente_group: 1
   carta_certificada_urgente_group: 1
-  cui_group: 0
+  cui_group: 1
   paquete_prioritario_group: 1
   paquete_economico_group: 1
 - airmail_group: 6
