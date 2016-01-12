@@ -167,7 +167,7 @@ class Israpost < Sinatra::Application
         rates << create_rate(:es, 'cui', 'Express Post', 'CUI')
 
         # add speed post
-        rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS')
+        # rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS')
 
         # add paquetes
         rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS')
