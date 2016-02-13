@@ -164,10 +164,11 @@ class Israpost < Sinatra::Application
         rates << create_rate(:es, 'carta_certificada', (free_shipping? ? 'FREE ' : '') + 'Registered Airmail', 'AIR') # if allow_regular?
 
         # add express post
+        cui_rate = create_rate(:es, 'cui', 'Express Post', 'CUI')
         rates << create_rate(:es, 'cui', 'Express Post', 'CUI')
 
         # add speed post
-        # rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS')
+        rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS') unless cui_rate # Only if no CUI
 
         # add paquetes
         rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS')
