@@ -77,7 +77,7 @@ class Israpost < Sinatra::Application
     {minimum: ship_date(minimum.days), maximum: ship_date(maximum.days)}
   end
   def create_rate(location, rate_name, name, code = nil)
-    price_method = location == :il ? :il_ship_price : :es_ship_price
+    price_method = "#{location}_ship_price".to_sym
     allow_free_shipping = code == 'AIR'
     if !shipping_locations[location][:rates][rate_name].to_f.zero? || (allow_free_shipping && free_shipping?)
       delivery_estimate = delivery_time(location, rate_name)
@@ -172,6 +172,17 @@ class Israpost < Sinatra::Application
 
         # add paquetes
         rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS')
+
+        if data['rate']['destination']['country'] == 'ES' && data['rate']['destination']['province'] == 'PM'
+          rates << {
+            service_name:      'Self pickup at Sant Joan',
+            service_code:      'SELF',
+            total_price:       0,
+            currency:          CURRENCY_CODE,
+            min_delivery_date: '',
+            max_delivery_date: ''
+          }
+        end
       end
 
       rates.compact
