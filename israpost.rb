@@ -4,8 +4,8 @@ class Israpost < Sinatra::Application
 
   CURRENCY_CODE  = 'EUR'
   CURRENCY_RATE  = 4.20
-  FREE_SHIPPING_FROM = 150
-  ALLOW_FREE_SHIPPING = false
+  FREE_SHIPPING_FROM = 100
+  ALLOW_FREE_SHIPPING = true
   SHIPPING_METHODS = {es: ['AIR', 'EMS'], il: 'EMS'}
   SHIPPING_METHODS_NAMES = {'AIR' => 'Registered Airmail', 'EMS' => 'Speed Post'}
   EXTRA_GRAMS = 50
