@@ -2,13 +2,15 @@ require_relative 'post_rate'
 
 class Israpost < Sinatra::Application
 
-  CURRENCY_CODE  = 'EUR'
-  CURRENCY_RATE  = 4.20
-  FREE_SHIPPING_FROM = 100
-  ALLOW_FREE_SHIPPING = true
-  SHIPPING_METHODS = {es: ['AIR', 'EMS'], il: 'EMS'}
-  SHIPPING_METHODS_NAMES = {'AIR' => 'Registered Airmail', 'EMS' => 'Speed Post'}
-  EXTRA_GRAMS = 50
+  CURRENCY_CODE               = 'EUR'
+  CURRENCY_RATE               = 4.20
+  FREE_SHIPPING_FROM          = ENV['FREE_SHIPPING_FROM'].to_f
+  FREE_EXPRESS_SHIPPING_FROM  = ENV['FREE_EXPRESS_SHIPPING_FROM'].to_f
+  ALLOW_FREE_SHIPPING         = ENV['ALLOW_FREE_SHIPPING'].downcase == 'true'
+  ALLOW_FREE_EXPRESS_SHIPPING = ENV['ALLOW_FREE_EXPRESS_SHIPPING'].downcase == 'true'
+  SHIPPING_METHODS            = {es: ['AIR', 'EMS'], il: 'EMS'}
+  SHIPPING_METHODS_NAMES      = {'AIR' => 'Registered Airmail', 'EMS' => 'Speed Post'}
+  EXTRA_GRAMS                 = 50
 
   use ExceptionNotification::Rack,
     email: {
@@ -72,20 +74,23 @@ class Israpost < Sinatra::Application
   def free_shipping?
     ALLOW_FREE_SHIPPING && shipping_locations[:es] && shipping_locations[:es][:total] >= FREE_SHIPPING_FROM
   end
+  def free_express_shipping?
+    ALLOW_FREE_EXPRESS_SHIPPING && shipping_locations[:es] && shipping_locations[:es][:total] >= FREE_EXPRESS_SHIPPING_FROM
+  end
   def delivery_time(location, rate_name)
     minimum, maximum = shipping_locations[location][:rates]["#{rate_name}_delivery_time"].split('..').collect(&:to_i)
     {minimum: ship_date(minimum.days), maximum: ship_date(maximum.days)}
   end
   def create_rate(location, rate_name, name, code = nil)
-    price_method = "#{location}_ship_price".to_sym
-    allow_free_shipping = code == 'AIR'
-    if !shipping_locations[location][:rates][rate_name].to_f.zero? || (allow_free_shipping && free_shipping?)
+    price_method        = "#{location}_ship_price".to_sym
+    allow_free_shipping = (code == 'AIR' && free_shipping?) || (code == 'CUI' && free_express_shipping?)
+    if !shipping_locations[location][:rates][rate_name].to_f.zero? || allow_free_shipping
       delivery_estimate = delivery_time(location, rate_name)
       code ||= rate_name.upcase
       {
         service_name:      name,
         service_code:      code,
-        total_price:       allow_free_shipping && free_shipping? ? 0 : self.send(price_method, shipping_locations[location][:rates][rate_name]),
+        total_price:       allow_free_shipping ? 0 : self.send(price_method, shipping_locations[location][:rates][rate_name]),
         currency:          CURRENCY_CODE,
         min_delivery_date: delivery_estimate[:minimum],
         max_delivery_date: delivery_estimate[:maximum]
