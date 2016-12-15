@@ -83,7 +83,7 @@ class Israpost < Sinatra::Application
   end
   def create_rate(location, rate_name, name, code = nil)
     price_method        = "#{location}_ship_price".to_sym
-    allow_free_shipping = (code == 'AIR' && free_shipping?) || (code == 'CUI' && free_express_shipping?)
+    allow_free_shipping = (code == 'AIR' && free_shipping?) || ((code == 'CUI' || code == 'EMS') && free_express_shipping?)
     if !shipping_locations[location][:rates][rate_name].to_f.zero? || (allow_free_shipping && code == 'AIR')
       delivery_estimate = delivery_time(location, rate_name)
       code ||= rate_name.upcase
