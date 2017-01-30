@@ -8,8 +8,7 @@ class Israpost < Sinatra::Application
   FREE_EXPRESS_SHIPPING_FROM  = ENV['FREE_EXPRESS_SHIPPING_FROM'].to_f
   ALLOW_FREE_SHIPPING         = ENV['ALLOW_FREE_SHIPPING'].downcase == 'true'
   ALLOW_FREE_EXPRESS_SHIPPING = ENV['ALLOW_FREE_EXPRESS_SHIPPING'].downcase == 'true'
-  SHIPPING_METHODS            = {es: ['AIR', 'EMS'], il: 'EMS'}
-  SHIPPING_METHODS_NAMES      = {'AIR' => 'Registered Airmail', 'EMS' => 'Speed Post'}
+  ALLOW_EMS                   = ENV['ALLOW_EMS'].to_s.downcase == 'true'
   EXTRA_GRAMS                 = 50
 
   use ExceptionNotification::Rack,
@@ -173,10 +172,12 @@ class Israpost < Sinatra::Application
         rates << create_rate(:es, 'cui', 'Express Post', 'CUI')
 
         # add speed post
-        rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS') unless cui_rate # Only if no CUI
+        if ALLOW_EMS
+          rates << create_rate(:es, 'carta_certificada_urgente', 'Speed Post', 'EMS') unless cui_rate # Only if no CUI
 
-        # add paquetes
-        rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS')
+          # add paquetes
+          rates << create_rate(:es, 'paquete_prioritario', 'Speed Post', 'EMS')
+        end
 
         if data['rate']['destination']['country'] == 'ES' && data['rate']['destination']['province'] == 'PM'
           rates << {
