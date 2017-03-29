@@ -218,11 +218,11 @@ class Israpost < Sinatra::Application
     json rates: rates
   end
 
-  get '/create' do
+  get '/create/?:destroy?' do
     shop_url = "https://#{ENV['API_KEY']}:#{ENV['PASSWORD']}@#{ENV['SHOP_NAME']}.myshopify.com/admin"
     ShopifyAPI::Base.site = shop_url
 
-    ShopifyAPI::CarrierService.all.collect(&:destroy)
+    ShopifyAPI::CarrierService.all.collect(&:destroy) if params[:destroy]
 
     [
       {
