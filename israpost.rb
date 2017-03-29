@@ -226,8 +226,8 @@ class Israpost < Sinatra::Application
 
     [
       {
-        name: 'israeli post',
-        callback_url: "https://shopify-israpost#{'-dev' if ENV['RACK_ENV'] == 'staging'}.herokuapp.com/rates",
+        name: ENV['APP_NAME'].gsub('-', ' ').split.map(&:capitalize).join(' '),
+        callback_url: "https://#{ENV['APP_NAME']}.herokuapp.com/rates",
         service_discovery: true,
         carrier_service_type: 'api',
         format: 'json'
