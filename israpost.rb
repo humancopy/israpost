@@ -9,6 +9,7 @@ class Israpost < Sinatra::Application
   ALLOW_FREE_SHIPPING         = ENV['ALLOW_FREE_SHIPPING'].downcase == 'true'
   ALLOW_FREE_EXPRESS_SHIPPING = ENV['ALLOW_FREE_EXPRESS_SHIPPING'].downcase == 'true'
   ALLOW_EMS                   = ENV['ALLOW_EMS'].to_s.downcase == 'true'
+  ALLOW_CUI                   = ENV['ALLOW_CUI'].to_s.downcase == 'true'
   EXTRA_GRAMS                 = 50
 
   use ExceptionNotification::Rack,
@@ -168,8 +169,10 @@ class Israpost < Sinatra::Application
         rates << create_rate(:es, 'carta_certificada', (free_shipping? ? 'FREE ' : '') + 'Registered Airmail', 'AIR') # if allow_regular?
 
         # add express post
-        cui_rate = create_rate(:es, 'cui', 'Express Post', 'CUI')
-        rates << create_rate(:es, 'cui', 'Express Post', 'CUI')
+        if ALLOW_CUI
+          cui_rate = create_rate(:es, 'cui', 'Express Post', 'CUI')
+          rates << create_rate(:es, 'cui', 'Express Post', 'CUI')
+        end
 
         # add speed post
         if ALLOW_EMS
